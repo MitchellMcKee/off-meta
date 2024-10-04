@@ -1,26 +1,16 @@
-import { useState } from 'react'
 import './App.css'
+import InteractiveJsonDisplayer from './components/InteractiveJsonDisplayer';
+import data from './mocks/Dihada, Binder of Wills.json';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   // refer to https://scryfall.com/docs/api 
 
   return (
     <>
-      <h1>off meta</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          hype count is at {count}
-        </button>
-        <p>
-          The goal of this project is to provide an easy way to 
-          find the least commonly used cards in tournament decks
-        </p>
+      <div>
+        <h1>Display JSON Data</h1>
+        <InteractiveJsonDisplayer json={data}></InteractiveJsonDisplayer>
       </div>
-      <p className="read-the-docs">
-        Placeholder Front-end for React Site that will be hosted on S3
-      </p>
     </>
   )
 }
