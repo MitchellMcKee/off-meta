@@ -5,6 +5,7 @@ import Typography from '@mui/joy/Typography';
 import CardActionArea from '@mui/material/CardActionArea';
 import './card.component.css'
 import { CardInfo } from '../types/types';
+import pepper from '../assets/cropped-pepper.png'
 
 export default function ActionAreaCard({ id, commander, spice, imageLinks, totalEntries}: CardInfo) {
   return (
@@ -22,7 +23,7 @@ export default function ActionAreaCard({ id, commander, spice, imageLinks, total
                 />
             ))}
         </div>
-        <CardContent>
+        <CardContent sx={{padding: '8px'}}>
         <div>
             {commander.map((cardName: string) => (
                 <div key={cardName}>
@@ -33,7 +34,10 @@ export default function ActionAreaCard({ id, commander, spice, imageLinks, total
         <div className='footer-container'>
             <div>
                 {spice.map((cardName: string) => (
-                    <Typography key={cardName} level="body-xs">{cardName}</Typography>
+                    <div key={cardName} className='spice'>
+                        <img src={pepper} width='16px' height='16px'></img>
+                        <Typography level="body-xs" noWrap>{cardName}</Typography>
+                    </div>
                 ))}
             </div>
             <div className='entries-container'>

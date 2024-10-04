@@ -7,6 +7,10 @@
     display: flex;
     justify-content: space-between;
 
+    .spice {
+        display: flex;
+    }
+
     .entries-container {
         display: flex;
         flex-direction: column;
