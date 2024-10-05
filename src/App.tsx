@@ -36,8 +36,8 @@ function App() {
 
   return (
     <>
+      <Typography color="primary" level='h2' sx={{paddingLeft: '16px', paddingTop: '8px'}}>Choose a Commander</Typography>
       <div className='app-container'>
-        <Typography color="primary" level='h2' sx={{padding: '16px'}}>Choose a Commander</Typography>
         <div className='card-container'>
             {commanders.map(displayCard => (
               <div className='display-card' key={displayCard.id}>

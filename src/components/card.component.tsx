@@ -36,7 +36,7 @@ export default function ActionAreaCard({ id, commander, spice, imageLinks, total
                 {spice.map((cardName: string) => (
                     <div key={cardName} className='spice'>
                         <img src={pepper} width='16px' height='16px'></img>
-                        <Typography level="body-xs" noWrap>{cardName}</Typography>
+                        <Typography level="body-xs" noWrap sx={{width: 180}}>{cardName}</Typography>
                     </div>
                 ))}
             </div>
