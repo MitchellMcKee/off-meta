@@ -7,7 +7,15 @@ import './card.component.css'
 import { CardInfo } from '../types/types';
 import pepper from '../assets/cropped-pepper.png'
 
-export default function ActionAreaCard({ id, card, relatedItems, imageLinks, totalEntries}: CardInfo) {
+export default function ActionAreaCard({ 
+  id = Math.random(), 
+  card = [], 
+  relatedItems = [], 
+  imageLinks = ['https://cards.scryfall.io/art_crop/front/d/d/ddeb54d6-a600-42b9-98df-20f8d58caed8.jpg?1685554091'], 
+  totalEntries}: CardInfo) {
+
+  const cardName = card.join(' and ')
+
   return (
     <Card key={id} sx={{ width: 280, height:  204}}>
       <CardActionArea>
@@ -18,7 +26,7 @@ export default function ActionAreaCard({ id, card, relatedItems, imageLinks, tot
                 component="img"
                 height="180"
                 image={link}
-                alt="chilli pepper"
+                alt={cardName}
                 sx={{width: 280, height: 128}}
                 />
             ))}
