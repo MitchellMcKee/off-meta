@@ -1,7 +1,8 @@
 export interface CardInfo {
     id: number;
-    commander: string[];
-    spice: string[];
+    // name is array to also represent partners
+    card: string[];
+    relatedItems: string[];
     imageLinks: string[];
     totalEntries: number;
 }

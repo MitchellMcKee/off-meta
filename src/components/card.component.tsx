@@ -7,9 +7,9 @@ import './card.component.css'
 import { CardInfo } from '../types/types';
 import pepper from '../assets/cropped-pepper.png'
 
-export default function ActionAreaCard({ id, commander, spice, imageLinks, totalEntries}: CardInfo) {
+export default function ActionAreaCard({ id, card, relatedItems, imageLinks, totalEntries}: CardInfo) {
   return (
-    <Card key={id} sx={{ width: 280, height:  240}}>
+    <Card key={id} sx={{ width: 280, height:  204}}>
       <CardActionArea>
         <div className='image-container'>
             {imageLinks.map((link: string) => (
@@ -25,15 +25,11 @@ export default function ActionAreaCard({ id, commander, spice, imageLinks, total
         </div>
         <CardContent sx={{padding: '8px'}}>
         <div>
-            {commander.map((cardName: string) => (
-                <div key={cardName}>
-                    <Typography level="title-sm">{cardName}</Typography>
-                </div>
-            ))}
+            <Typography level="title-sm" noWrap>{card.join(' + ')}</Typography>
         </div>
         <div className='footer-container'>
             <div>
-                {spice.map((cardName: string) => (
+                {relatedItems.map((cardName: string) => (
                     <div key={cardName} className='spice'>
                         <img src={pepper} width='16px' height='16px'></img>
                         <Typography level="body-xs" noWrap sx={{width: 180}}>{cardName}</Typography>
@@ -41,8 +37,8 @@ export default function ActionAreaCard({ id, commander, spice, imageLinks, total
                 ))}
             </div>
             <div className='entries-container'>
-                <Typography sx={{ fontSize: 'md', fontWeight: 'md' }}>{totalEntries}</Typography>
-                <Typography sx={{ fontSize: 'md', fontWeight: 'md' }}>Entries</Typography>
+                <Typography sx={{ fontSize: 'sm', fontWeight: 'md' }}>{totalEntries}</Typography>
+                <Typography sx={{ fontSize: 'sm', fontWeight: 'md' }}>Entries</Typography>
             </div>
         </div>
         </CardContent>

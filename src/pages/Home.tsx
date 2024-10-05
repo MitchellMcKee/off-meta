@@ -8,24 +8,24 @@ import DisplayCard from '../components/card.component';
 function Home() {
   const dihada: CardInfo = {
     id: 0,
-    commander: ['Dihada, Binder of Wills'],
-    spice: ['Blood Moon', 'Obliterate'],
+    card: ['Dihada, Binder of Wills'],
+    relatedItems: ['Blood Moon', 'Obliterate'],
     imageLinks: ["https://cards.scryfall.io/art_crop/front/d/d/ddeb54d6-a600-42b9-98df-20f8d58caed8.jpg?1685554091"],
     totalEntries: 73
   }
 
   const talion: CardInfo = {
     id: 1,
-    commander: ['Talion, the Kindly Lord'],
-    spice: ['Okina, Temple to the Grandfathers', 'Jace, the Mind Sculptor'],
+    card: ['Talion, the Kindly Lord'],
+    relatedItems: ['Okina, Temple to the Grandfathers', 'Jace, the Mind Sculptor'],
     imageLinks: ["https://cards.scryfall.io/art_crop/front/6/2/62a6b452-c796-45c6-b4d1-0ae3d675e38e.jpg?1692939468"],
     totalEntries: 252
   }
 
   const jeska: CardInfo = {
     id: 2,
-    commander: ['Jeska, Thrice Reborn', 'Tymna, the Weaver'],
-    spice: ['Blood Moon', 'Abeyance'],
+    card: ['Jeska, Thrice Reborn', 'Tymna, the Weaver'],
+    relatedItems: ['Blood Moon', 'Abeyance'],
     imageLinks: ["https://cards.scryfall.io/art_crop/front/4/8/48caf4c4-745c-4072-bf3d-1a3fa7c3bc9c.jpg?1644853023",
       "https://cards.scryfall.io/art_crop/front/b/c/bc7cbe9b-324e-42b8-94e2-36e91cb32163.jpg?1644853048"
     ],
