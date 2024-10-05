@@ -15,9 +15,8 @@ const router = createBrowserRouter([
     errorElement: <div>404 chef</div>
   },
   {
-    path: '/Commander',
-    element: <Commander />,
-    errorElement: <div>404 chef</div>
+    path: '/commander/:commanderName',
+    element: <Commander />
   }
 ])
 

@@ -1,7 +1,7 @@
 import '@fontsource/inter';
 import { Link } from 'react-router-dom';
 import Typography from '@mui/joy/Typography';
-import './Home.css'
+import styles from './Home.module.css'
 import { CardInfo } from '../types/types';
 import CommanderCard from '../components/commander-card.component';
 
@@ -36,12 +36,12 @@ function Home() {
 
   return (
     <>
-      <div className='home'>
+      <div className={styles.home}>
         <Typography color="primary" level='h2' sx={{ paddingTop: '8px'}}>Choose a Commander</Typography>
-        <div className='card-container'>
+        <div className={styles.cardContainer}>
             {commanders.map(displayCard => (
-              <Link to="/Commander" key={displayCard.id}>
-                <div className='display-card'>
+              <Link to={`/commander/${displayCard.card.join('+')}`} key={displayCard.id}>
+                <div className={styles.displayCard}>
                   <CommanderCard {...displayCard}> </CommanderCard>
                 </div>
               </Link>

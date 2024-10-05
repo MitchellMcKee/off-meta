@@ -1,11 +1,11 @@
 .home {
   margin-left: 16px;
 
-  .card-container {
+  .cardContainer {
     display: flex;
     flex-wrap: wrap;
   
-    .display-card {
+    .displayCard {
       padding: 16px;
     }
   }
