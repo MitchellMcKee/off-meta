@@ -1,0 +1,12 @@
+.commander {
+  margin-left: 16px;
+
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+  
+    .display-card {
+      padding: 16px;
+    }
+  }
+}

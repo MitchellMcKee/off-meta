@@ -1,11 +1,11 @@
-import './App.css'
 import '@fontsource/inter';
-import DisplayCard from './components/card.component';
+import { Link } from 'react-router-dom';
 import Typography from '@mui/joy/Typography';
+import './Home.css'
+import { CardInfo } from '../types/types';
+import DisplayCard from '../components/card.component';
 
-import { CardInfo } from './types/types';
-
-function App() {
+function Home() {
   const dihada: CardInfo = {
     id: 0,
     commander: ['Dihada, Binder of Wills'],
@@ -36,13 +36,15 @@ function App() {
 
   return (
     <>
-      <Typography color="primary" level='h2' sx={{paddingLeft: '16px', paddingTop: '8px'}}>Choose a Commander</Typography>
-      <div className='app-container'>
+      <div className='home'>
+        <Typography color="primary" level='h2' sx={{ paddingTop: '8px'}}>Choose a Commander</Typography>
         <div className='card-container'>
             {commanders.map(displayCard => (
-              <div className='display-card' key={displayCard.id}>
-                <DisplayCard {...displayCard}> </DisplayCard>
-              </div>
+              <Link to="/Commander" key={displayCard.id}>
+                <div className='display-card'>
+                  <DisplayCard {...displayCard}> </DisplayCard>
+                </div>
+              </Link>
             ))}
         </div>
       </div>
@@ -50,4 +52,4 @@ function App() {
   )
 }
 
-export default App
+export default Home

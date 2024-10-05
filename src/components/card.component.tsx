@@ -18,7 +18,7 @@ export default function ActionAreaCard({ id, commander, spice, imageLinks, total
                 component="img"
                 height="180"
                 image={link}
-                alt="green iguana"
+                alt="chilli pepper"
                 sx={{width: 280, height: 128}}
                 />
             ))}
