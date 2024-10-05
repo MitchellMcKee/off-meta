@@ -7,6 +7,16 @@ import styles from './card.module.css'
 import { CardInfo } from '../types/types';
 import pepper from '../assets/cropped-pepper.png'
 
+function SpiceLevel(totalDecklists: number) {
+  const spiceLevel = []
+
+  for (let i = 5; i >= totalDecklists; i--) {
+    spiceLevel.push(<img src={pepper} width='24px' height='24px' key={Math.random()}></img>);
+  }
+
+  return spiceLevel
+}
+
 export default function ActionAreaCard({ 
   id = Math.random(), 
   card = [], 
@@ -18,26 +28,26 @@ export default function ActionAreaCard({
     <Card key={id}>
       <CardActionArea sx={{ width: 252 }}>
         <div className={styles.imageContainer}>
-            {imageLinks.map((link: string) => (
-                <CardMedia
-                key={link}
-                component="img"
-                image={link}
-                alt={card[0]}
-                sx={{width: 240}}
-                />
-            ))}
+          <CardMedia
+          key={imageLinks[0]}
+          component="img"
+          image={imageLinks[0]}
+          alt={card[0]}
+          sx={{width: 240}}
+          />
         </div>
         <CardContent sx={{padding: '8px'}}>
+          {SpiceLevel(relatedItems.length).map(pepper => pepper)}
           <div>
               <Typography level="title-sm" noWrap>{card.join(' + ')}</Typography>
           </div>
           <div className={styles.footerContainer}>
               <div>
-                  {relatedItems.map((cardName: string) => (
-                      <div key={cardName} className={styles.spice}>
-                          <img src={pepper} width='16px' height='16px'></img>
-                          <Typography level="body-xs" noWrap sx={{width: 180}}>{cardName}</Typography>
+                  {relatedItems.map((moxfieldId: string) => (
+                      <div key={moxfieldId} className={styles.spice}>
+                          <a href={`https://www.moxfield.com/decks/${moxfieldId}`}>
+                            <Typography level="body-xs" noWrap sx={{width: 180}}>{moxfieldId}</Typography>
+                          </a>
                       </div>
                   ))}
               </div>

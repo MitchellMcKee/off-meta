@@ -11,14 +11,14 @@ function Commander() {
   return (
     <>
       <div className={styles.commander}>
-        <Typography color="primary" level='h2' sx={{ paddingTop: '8px'}}>{params.commanderName}</Typography>
+        <Link to='/'>
+          <Typography color="primary" level='h2' sx={{ paddingTop: '8px'}}>{params.commanderName}</Typography>
+        </Link>
         <div className={styles.cardContainer}>
             {mockData.map(displayCard => (
-              <Link key={Math.random()} to="/">
-                <div className={styles.displayCard}>
+                <div className={styles.displayCard} key={displayCard.id}>
                   <DisplayCard {...displayCard}> </DisplayCard>
                 </div>
-              </Link>
             ))}
         </div>
       </div>
