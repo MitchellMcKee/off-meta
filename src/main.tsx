@@ -21,5 +21,6 @@ const router = createBrowserRouter([
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <RouterProvider router={router}/>
+    <p>&nbsp; Data provided by <a href="https://topdeck.gg" target="_blank">TopDeck.gg</a></p>
   </StrictMode>,
 )
