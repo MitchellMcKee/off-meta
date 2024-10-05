@@ -3,9 +3,9 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/joy/Typography';
 import CardActionArea from '@mui/material/CardActionArea';
-import styles from './card.module.css'
+import styles from './commander-card.module.css';
 import { CardInfo } from '../types/types';
-import pepper from '../assets/cropped-pepper.png'
+import pepper from '../assets/cropped-pepper.png';
 
 export default function ActionAreaCard({ 
   id = Math.random(), 
@@ -14,17 +14,21 @@ export default function ActionAreaCard({
   imageLinks = ['https://cards.scryfall.io/art_crop/front/d/d/ddeb54d6-a600-42b9-98df-20f8d58caed8.jpg?1685554091'], 
   totalEntries}: CardInfo) {
 
+  const cardName = card.join(' and ')
+  const width = card.length > 1 ? 144 : 288
+
   return (
     <Card key={id}>
-      <CardActionArea sx={{ width: 252 }}>
+      <CardActionArea sx={{ width: 288}}>
         <div className={styles.imageContainer}>
             {imageLinks.map((link: string) => (
                 <CardMedia
                 key={link}
                 component="img"
+                height="180"
                 image={link}
-                alt={card[0]}
-                sx={{width: 240}}
+                alt={cardName}
+                sx={{width: width, height: 176}}
                 />
             ))}
         </div>

@@ -1,0 +1,22 @@
+.imageContainer {
+    display: flex;
+    justify-content: center;
+    background: black;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.footerContainer {
+    display: flex;
+    justify-content: space-between;
+
+    .spice {
+        display: flex;
+    }
+
+    .entriesContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+}

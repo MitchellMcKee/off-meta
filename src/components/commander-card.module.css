@@ -1,9 +1,9 @@
-.image-container {
+.imageContainer {
     display: flex;
     justify-content: center;
 }
 
-.footer-container {
+.footerContainer {
     display: flex;
     justify-content: space-between;
 
@@ -11,7 +11,7 @@
         display: flex;
     }
 
-    .entries-container {
+    .entriesContainer {
         display: flex;
         flex-direction: column;
         align-items: flex-end;

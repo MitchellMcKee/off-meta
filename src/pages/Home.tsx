@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Typography from '@mui/joy/Typography';
 import './Home.css'
 import { CardInfo } from '../types/types';
-import DisplayCard from '../components/card.component';
+import CommanderCard from '../components/commander-card.component';
 
 function Home() {
   const dihada: CardInfo = {
@@ -42,7 +42,7 @@ function Home() {
             {commanders.map(displayCard => (
               <Link to="/Commander" key={displayCard.id}>
                 <div className='display-card'>
-                  <DisplayCard {...displayCard}> </DisplayCard>
+                  <CommanderCard {...displayCard}> </CommanderCard>
                 </div>
               </Link>
             ))}
