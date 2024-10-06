@@ -1,0 +1,4433 @@
+[
+    {
+        "id": 0,
+        "card": [
+            "Leyline of Anticipation"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "Z30EgZOKG0qBp61Z3VGKXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/5/f57bdaa1-ce8a-4103-8598-fee751e65a53.jpg?1674141383"
+        ],
+        "totalEntries": 205
+    },
+    {
+        "id": 1,
+        "card": [
+            "Reverberate"
+        ],
+        "relatedItems": [
+            "Z30EgZOKG0qBp61Z3VGKXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/9/5996feb4-02ac-45e8-a7f2-966cf74391dc.jpg?1562554142"
+        ],
+        "totalEntries": 134
+    },
+    {
+        "id": 2,
+        "card": [
+            "Twincast"
+        ],
+        "relatedItems": [
+            "wQuYLtSxh0qYzuwobaJlug",
+            "GgqLq8aTcUW_gCCxPG7Q4w",
+            "Z30EgZOKG0qBp61Z3VGKXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/3/f38eec33-a40e-4739-ad2c-2f57008cef4e.jpg?1562001453"
+        ],
+        "totalEntries": 18
+    },
+    {
+        "id": 3,
+        "card": [
+            "Emergence Zone"
+        ],
+        "relatedItems": [
+            "WH6Qx8sYBU6gYofLc-mvag",
+            "RR0DJJCpLUSqYsLrjWhHVA",
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "wqaOtYiEaECXxq8iSwzRQA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/b/ab95f6e7-b806-47fe-a071-6c38b3176d94.jpg?1557577458"
+        ],
+        "totalEntries": 2654
+    },
+    {
+        "id": 4,
+        "card": [
+            "Torpor Orb"
+        ],
+        "relatedItems": [
+            "WH6Qx8sYBU6gYofLc-mvag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/5/953610f6-ea96-4e71-969f-50ecac09c091.jpg?1722108794"
+        ],
+        "totalEntries": 612
+    },
+    {
+        "id": 5,
+        "card": [
+            "Rending Volley"
+        ],
+        "relatedItems": [
+            "WH6Qx8sYBU6gYofLc-mvag",
+            "NgUPlZ0qGEqYgeZLaptnDg",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/2/8234090e-9df1-4915-90ef-8a4bc6212655.jpg?1562789104"
+        ],
+        "totalEntries": 605
+    },
+    {
+        "id": 6,
+        "card": [
+            "Professional Face-Breaker"
+        ],
+        "relatedItems": [
+            "WH6Qx8sYBU6gYofLc-mvag",
+            "iKSVcD_4-064SSJsyn37eg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/2/42acbf52-b137-44f0-a815-2817fe8d2da2.jpg?1664411677"
+        ],
+        "totalEntries": 1249
+    },
+    {
+        "id": 7,
+        "card": [
+            "Fabled Passage"
+        ],
+        "relatedItems": [
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "UYX41cquiE6fEXk_pVHU0Q",
+            "UsOylO7-3k2e_EdEGe4GXA",
+            "fHX1PsD5hEuWkWuldxtmkg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/8/8809830f-d8e1-4603-9652-0ad8b00234e9.jpg?1721427315"
+        ],
+        "totalEntries": 117
+    },
+    {
+        "id": 8,
+        "card": [
+            "Sapphire Charm"
+        ],
+        "relatedItems": [
+            "UYX41cquiE6fEXk_pVHU0Q"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/9/2944e5df-eef9-42be-a591-5ac15e306ad8.jpg?1562718322"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 9,
+        "card": [
+            "Sandstone Needle"
+        ],
+        "relatedItems": [
+            "UYX41cquiE6fEXk_pVHU0Q"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/2/82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b.jpg?1562381828"
+        ],
+        "totalEntries": 108
+    },
+    {
+        "id": 10,
+        "card": [
+            "Saprazzan Skerry"
+        ],
+        "relatedItems": [
+            "RObPNQdMEEuaMKAjqNwuYw",
+            "UYX41cquiE6fEXk_pVHU0Q"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/0/006871fd-2641-42cb-a2ac-a33d05fc5a35.jpg?1562378939"
+        ],
+        "totalEntries": 71
+    },
+    {
+        "id": 11,
+        "card": [
+            "Vandalblast"
+        ],
+        "relatedItems": [
+            "ALwbxt7g4EGhxas0zH3MXQ",
+            "UYX41cquiE6fEXk_pVHU0Q",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "JNKdSd1i3kid4CO0I5maag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/7/e781b55f-6388-4ab8-be74-7c56eaba1c4d.jpg?1712354517"
+        ],
+        "totalEntries": 220
+    },
+    {
+        "id": 12,
+        "card": [
+            "Barbarian Ring"
+        ],
+        "relatedItems": [
+            "UYX41cquiE6fEXk_pVHU0Q"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/1/c184406c-b22c-4b9b-9d3a-3e7b17efd8a0.jpg?1717013818"
+        ],
+        "totalEntries": 501
+    },
+    {
+        "id": 13,
+        "card": [
+            "Solve the Equation"
+        ],
+        "relatedItems": [
+            "UYX41cquiE6fEXk_pVHU0Q",
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "4vaJZXnNtEOVuMpGcom30g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/6/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc.jpg?1624590433"
+        ],
+        "totalEntries": 472
+    },
+    {
+        "id": 14,
+        "card": [
+            "Hullbreaker Horror"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "UYX41cquiE6fEXk_pVHU0Q",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "fHX1PsD5hEuWkWuldxtmkg",
+            "bj2bgjsYi0GTLIWErPQKPw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/f/bf786c50-1ba1-4f81-a800-bc98189040dd.jpg?1674141366"
+        ],
+        "totalEntries": 2359
+    },
+    {
+        "id": 15,
+        "card": [
+            "Brotherhood's End"
+        ],
+        "relatedItems": [
+            "m4UEutHQ40e9xJI5akzzvQ",
+            "UYX41cquiE6fEXk_pVHU0Q",
+            "jXh6UGNNPUiir9o9H9V0Fw",
+            "oMiDBHhlP0GwfxX0JtdKiw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg?1674421089"
+        ],
+        "totalEntries": 82
+    },
+    {
+        "id": 16,
+        "card": [
+            "Spire of Industry"
+        ],
+        "relatedItems": [
+            "3mnhjXR_UU2aOiODb7XF1Q",
+            "WXfrdZ_XbEK_sy93BR6UNw",
+            "C5IcaPGWd0-P6O1u2liXEA",
+            "CRmVriwI3UyDLOVVGIvYaw",
+            "6O1TRUSw002-Cz3wXLxIog"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/0/90b845fd-5b22-4196-9cba-00c7e1b44509.jpg?1706241253"
+        ],
+        "totalEntries": 2410
+    },
+    {
+        "id": 17,
+        "card": [
+            "Disrupt"
+        ],
+        "relatedItems": [
+            "E1KK_30cWkO1jmsqLuGLUg",
+            "7lEURKdSV0SwdvyQ8PwgfA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/0/c000a02f-6b7e-4925-a938-59e645e980d7.jpg?1562933600"
+        ],
+        "totalEntries": 32
+    },
+    {
+        "id": 18,
+        "card": [
+            "Subtlety"
+        ],
+        "relatedItems": [
+            "E1KK_30cWkO1jmsqLuGLUg",
+            "NgUPlZ0qGEqYgeZLaptnDg",
+            "7lEURKdSV0SwdvyQ8PwgfA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1717470483"
+        ],
+        "totalEntries": 448
+    },
+    {
+        "id": 19,
+        "card": [
+            "Suspend"
+        ],
+        "relatedItems": [
+            "uM8J3_29Zk-zQSC5YLrD1g",
+            "E1KK_30cWkO1jmsqLuGLUg",
+            "WXfrdZ_XbEK_sy93BR6UNw",
+            "7lEURKdSV0SwdvyQ8PwgfA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/0/40af215c-d3f7-42f0-85cd-77a3fcd919ba.jpg?1626095082"
+        ],
+        "totalEntries": 95
+    },
+    {
+        "id": 20,
+        "card": [
+            "Curse of Opulence"
+        ],
+        "relatedItems": [
+            "HVcsDX2nhEGksnwHLRqoJQ",
+            "nXSIameSUki8eVY7ahkizg",
+            "GgqLq8aTcUW_gCCxPG7Q4w",
+            "WXfrdZ_XbEK_sy93BR6UNw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/2/32cc103e-949d-42d4-aadd-490a261c9ad9.jpg?1706240824"
+        ],
+        "totalEntries": 19
+    },
+    {
+        "id": 21,
+        "card": [
+            "Sakashima the Impostor"
+        ],
+        "relatedItems": [
+            "WXfrdZ_XbEK_sy93BR6UNw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/1/61dc2f54-3637-4caa-9741-36ff14dc5527.jpg?1562494177"
+        ],
+        "totalEntries": 854
+    },
+    {
+        "id": 22,
+        "card": [
+            "Veilstone Amulet"
+        ],
+        "relatedItems": [
+            "jXh6UGNNPUiir9o9H9V0Fw",
+            "WXfrdZ_XbEK_sy93BR6UNw",
+            "F3j5C4vHsk6DjGcgA5-pYA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/7/3705d3e4-317e-460d-b16e-e57238a19070.jpg?1562906098"
+        ],
+        "totalEntries": 6
+    },
+    {
+        "id": 23,
+        "card": [
+            "Crystalline Crawler"
+        ],
+        "relatedItems": [
+            "WXfrdZ_XbEK_sy93BR6UNw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/2/02b90a7c-288d-420a-91b2-bd9ced5767e4.jpg?1562272022"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 24,
+        "card": [
+            "Mists of L\u00f3rien"
+        ],
+        "relatedItems": [
+            "WXfrdZ_XbEK_sy93BR6UNw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/b/eb23c5fc-3172-44c3-9d3a-ec619c6c4824.jpg?1695346516"
+        ],
+        "totalEntries": 80
+    },
+    {
+        "id": 25,
+        "card": [
+            "Vedalken Aethermage"
+        ],
+        "relatedItems": [
+            "JPRJgahgt0OAE_p4qkuk-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/9/496eb37d-5c8f-4dd7-a0a7-3ed1bd2210d6.jpg?1562909881"
+        ],
+        "totalEntries": 90
+    },
+    {
+        "id": 26,
+        "card": [
+            "Spark Double"
+        ],
+        "relatedItems": [
+            "JPRJgahgt0OAE_p4qkuk-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/4/c41b9ba2-0006-4d8e-b600-efe81ff5e0cc.jpg?1702429420"
+        ],
+        "totalEntries": 105
+    },
+    {
+        "id": 27,
+        "card": [
+            "Krark's Thumb"
+        ],
+        "relatedItems": [
+            "JPRJgahgt0OAE_p4qkuk-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/8/78a5d49a-747e-4ec8-a20a-ca917c315774.jpg?1610836017"
+        ],
+        "totalEntries": 148
+    },
+    {
+        "id": 28,
+        "card": [
+            "Krark, the Thumbless"
+        ],
+        "relatedItems": [
+            "JPRJgahgt0OAE_p4qkuk-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/6/06a981cd-1951-438e-95c9-68294795638e.jpg?1617148336"
+        ],
+        "totalEntries": 15
+    },
+    {
+        "id": 29,
+        "card": [
+            "Veyran, Voice of Duality"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "7v3wE18EtkaKF76lIG2JhA",
+            "JPRJgahgt0OAE_p4qkuk-g",
+            "9gryx2MrN0eGuR1TTBB1vg",
+            "FA-0hQdsokKpq_hS1ZQQGg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/3/f34cd711-55b2-4802-9878-d22314c0cc9c.jpg?1712354807"
+        ],
+        "totalEntries": 395
+    },
+    {
+        "id": 30,
+        "card": [
+            "Step Through"
+        ],
+        "relatedItems": [
+            "FA-0hQdsokKpq_hS1ZQQGg",
+            "JPRJgahgt0OAE_p4qkuk-g",
+            "7v3wE18EtkaKF76lIG2JhA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/1/716534cb-aa89-4de7-9aa5-8d8aa4422a6a.jpg?1626095032"
+        ],
+        "totalEntries": 368
+    },
+    {
+        "id": 31,
+        "card": [
+            "Relic of Legends"
+        ],
+        "relatedItems": [
+            "JPRJgahgt0OAE_p4qkuk-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/4/64a2809e-c441-416c-90ff-6fb1e246dff3.jpg?1673308219"
+        ],
+        "totalEntries": 1152
+    },
+    {
+        "id": 32,
+        "card": [
+            "Spiteful Banditry"
+        ],
+        "relatedItems": [
+            "rE3xMO6zoUCMldaDec7UPA",
+            "1WAQXlkXs0qqN3m6fU8o5Q",
+            "iXxJYiYCY0GLeqkMEu-AjA",
+            "nXSIameSUki8eVY7ahkizg",
+            "6O1TRUSw002-Cz3wXLxIog"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/8/e85a82bc-49f3-4694-b688-808a541146db.jpg?1686969184"
+        ],
+        "totalEntries": 43
+    },
+    {
+        "id": 33,
+        "card": [
+            "Mystical Dispute"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "dza28ubMXUmfGmjok8PaLA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/b/fbe04cb8-a8b9-4241-baae-b398a2509a3a.jpg?1572489956"
+        ],
+        "totalEntries": 39
+    },
+    {
+        "id": 34,
+        "card": [
+            "Chaos Warp"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "E0SSZ8XfYUC-U_GqidMHpg",
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/5/2501b5b8-32f1-4bac-b186-d9331702226c.jpg?1726284937"
+        ],
+        "totalEntries": 339
+    },
+    {
+        "id": 35,
+        "card": [
+            "Grapeshot"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "D8nWONyh_0Om939eGwkyxw",
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/2/923e1291-3999-4f81-ade4-073fb982143f.jpg?1675200032"
+        ],
+        "totalEntries": 481
+    },
+    {
+        "id": 36,
+        "card": [
+            "Thought Vessel"
+        ],
+        "relatedItems": [
+            "D8nWONyh_0Om939eGwkyxw",
+            "M0yhH017xUSHxl1K5AIpPg",
+            "IQRAvDXYk0GRJS03tn2NWg",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/1/71b11bf4-35ab-4028-961f-5180a12dac82.jpg?1726285340"
+        ],
+        "totalEntries": 237
+    },
+    {
+        "id": 37,
+        "card": [
+            "Teferi's Ageless Insight"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "xZWonPftsU6uF4wLryfT-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/1/b1a32b7c-9f26-4504-9f8d-379164d69346.jpg?1706240737"
+        ],
+        "totalEntries": 24
+    },
+    {
+        "id": 38,
+        "card": [
+            "Commander's Sphere"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/4/a4ce6b63-0b38-4582-94d5-c733af087038.jpg?1726285297"
+        ],
+        "totalEntries": 95
+    },
+    {
+        "id": 39,
+        "card": [
+            "Feldon's Cane"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/2/726ce95b-bc4d-4c34-a8e1-b4c6c28accc9.jpg?1562778128"
+        ],
+        "totalEntries": 9
+    },
+    {
+        "id": 40,
+        "card": [
+            "Last Chance"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/0/c0efb595-d407-4389-a99d-d97c4d6bdcd0.jpg?1675200054"
+        ],
+        "totalEntries": 762
+    },
+    {
+        "id": 41,
+        "card": [
+            "Niv-Mizzet, the Firemind"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/9/395465b8-f5ed-4668-9e6a-82257150c52c.jpg?1591321423"
+        ],
+        "totalEntries": 88
+    },
+    {
+        "id": 42,
+        "card": [
+            "Seething Song"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "IQRAvDXYk0GRJS03tn2NWg",
+            "wdw3eM7Pl0e-lkjnweEZFw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/4/f493ce26-005c-4ddc-80f0-47bea4fd013a.jpg?1625194059"
+        ],
+        "totalEntries": 493
+    },
+    {
+        "id": 43,
+        "card": [
+            "Grim Monolith"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/d/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280.jpg?1562863767"
+        ],
+        "totalEntries": 3984
+    },
+    {
+        "id": 44,
+        "card": [
+            "Jace, Wielder of Mysteries"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "9gryx2MrN0eGuR1TTBB1vg",
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/a/6adb7d73-4482-4930-8497-cffd169b57e2.jpg?1557576232"
+        ],
+        "totalEntries": 201
+    },
+    {
+        "id": 45,
+        "card": [
+            "Curate"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/8/78cd258b-431e-42f7-a938-76ebc80d528d.jpg?1706240681"
+        ],
+        "totalEntries": 8
+    },
+    {
+        "id": 46,
+        "card": [
+            "Scalding Viper // Steam Clean"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg",
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/8/58e72bfb-6f64-4647-afb6-b5ad4737121c.jpg?1692939754"
+        ],
+        "totalEntries": 14
+    },
+    {
+        "id": 47,
+        "card": [
+            "Proft's Eidetic Memory"
+        ],
+        "relatedItems": [
+            "M0yhH017xUSHxl1K5AIpPg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/f/af5b29b3-974c-4200-8df8-b072c11e1600.jpg?1706241635"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 48,
+        "card": [
+            "Anticipate"
+        ],
+        "relatedItems": [
+            "dza28ubMXUmfGmjok8PaLA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/6/46b6dfb2-ffe4-44fb-bfd9-df11bc3193df.jpg?1591230450"
+        ],
+        "totalEntries": 13
+    },
+    {
+        "id": 49,
+        "card": [
+            "Impulse"
+        ],
+        "relatedItems": [
+            "thwg9hqsKkubGrtHs6IRvw",
+            "iXxJYiYCY0GLeqkMEu-AjA",
+            "dza28ubMXUmfGmjok8PaLA",
+            "E0SSZ8XfYUC-U_GqidMHpg",
+            "A8iblT87X0uDxC8TK7KZbg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/e/3ec50625-5e14-4fd0-9a96-86f195342695.jpg?1675199337"
+        ],
+        "totalEntries": 159
+    },
+    {
+        "id": 50,
+        "card": [
+            "Reality Shift"
+        ],
+        "relatedItems": [
+            "D8nWONyh_0Om939eGwkyxw",
+            "iKSVcD_4-064SSJsyn37eg",
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "dza28ubMXUmfGmjok8PaLA",
+            "uM8J3_29Zk-zQSC5YLrD1g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/7/67da79c0-a546-4af7-b823-9b86b3d1b9ff.jpg?1726284719"
+        ],
+        "totalEntries": 124
+    },
+    {
+        "id": 51,
+        "card": [
+            "Blood Moon"
+        ],
+        "relatedItems": [
+            "HVcsDX2nhEGksnwHLRqoJQ",
+            "3mnhjXR_UU2aOiODb7XF1Q",
+            "dza28ubMXUmfGmjok8PaLA",
+            "dEIUk7LpG0uJre4JewoRTg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1599706217"
+        ],
+        "totalEntries": 668
+    },
+    {
+        "id": 52,
+        "card": [
+            "Jeweled Amulet"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "HVcsDX2nhEGksnwHLRqoJQ",
+            "GgqLq8aTcUW_gCCxPG7Q4w",
+            "dza28ubMXUmfGmjok8PaLA",
+            "nXSIameSUki8eVY7ahkizg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/e/1ec4975d-3ca8-45fd-9e6c-06650c6ac2e2.jpg?1562867848"
+        ],
+        "totalEntries": 252
+    },
+    {
+        "id": 53,
+        "card": [
+            "Discover the Impossible"
+        ],
+        "relatedItems": [
+            "dza28ubMXUmfGmjok8PaLA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/c/8c201117-9850-4e92-9ecc-e4d71a70a959.jpg?1654566653"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 54,
+        "card": [
+            "Concerted Defense"
+        ],
+        "relatedItems": [
+            "zPYyec6nk06pQFA44wKeLw",
+            "LupUgw_hhkSdBsL8Y7Kkbw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/3/235c108d-3902-4c2e-919c-a5449cd2dc3c.jpg?1604193820"
+        ],
+        "totalEntries": 10
+    },
+    {
+        "id": 55,
+        "card": [
+            "Wizard Class"
+        ],
+        "relatedItems": [
+            "XxO1hw-fUE-mCZCFtaI_pQ",
+            "QWcOnn-3rkq2wNsNMWeowQ",
+            "xZWonPftsU6uF4wLryfT-g",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.jpg?1639436605"
+        ],
+        "totalEntries": 9
+    },
+    {
+        "id": 56,
+        "card": [
+            "Winged Boots"
+        ],
+        "relatedItems": [
+            "PGF3ZdDgT0i6LzTpD-Yiyw",
+            "XxO1hw-fUE-mCZCFtaI_pQ",
+            "QWcOnn-3rkq2wNsNMWeowQ",
+            "xZWonPftsU6uF4wLryfT-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/1/116361c4-fddd-440a-ad02-8d71df733231.jpg?1712354250"
+        ],
+        "totalEntries": 25
+    },
+    {
+        "id": 57,
+        "card": [
+            "Flame of Anor"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "ejVuCxVn3UGVM_sh4YvRsA",
+            "xZWonPftsU6uF4wLryfT-g",
+            "g4Ma8TWl1Ue7Tp-OfhFYyg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/4/04779a7e-b453-48b9-b392-6d6fd0b8d283.jpg?1686969766"
+        ],
+        "totalEntries": 53
+    },
+    {
+        "id": 58,
+        "card": [
+            "Demand Answers"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "xZWonPftsU6uF4wLryfT-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/c/eca092fc-7c67-4a73-989e-5297bbaaea76.jpg?1706241852"
+        ],
+        "totalEntries": 88
+    },
+    {
+        "id": 59,
+        "card": [
+            "Generous Plunderer"
+        ],
+        "relatedItems": [
+            "XxO1hw-fUE-mCZCFtaI_pQ",
+            "QWcOnn-3rkq2wNsNMWeowQ",
+            "xZWonPftsU6uF4wLryfT-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/c/4c6cf93a-d073-48ac-88db-c46bf3e10beb.jpg?1712352787"
+        ],
+        "totalEntries": 18
+    },
+    {
+        "id": 60,
+        "card": [
+            "Careful Study"
+        ],
+        "relatedItems": [
+            "xZWonPftsU6uF4wLryfT-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/e/dea15b53-2940-40e7-8d48-8ec11341da83.jpg?1562936545"
+        ],
+        "totalEntries": 27
+    },
+    {
+        "id": 61,
+        "card": [
+            "Shinka, the Bloodsoaked Keep"
+        ],
+        "relatedItems": [
+            "xZWonPftsU6uF4wLryfT-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/2/d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5.jpg?1562764666"
+        ],
+        "totalEntries": 255
+    },
+    {
+        "id": 62,
+        "card": [
+            "Verity Circle"
+        ],
+        "relatedItems": [
+            "xZWonPftsU6uF4wLryfT-g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/8/58b0d8be-f2e7-4bc9-a700-ed4c06785ecf.jpg?1641602212"
+        ],
+        "totalEntries": 15
+    },
+    {
+        "id": 63,
+        "card": [
+            "Day's Undoing"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "exITyW3fZk-GZR_23o_Dbg",
+            "G_2dKTbcf0uEuExMWI1lWQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/c/ac13a82d-43f5-4b96-bf5f-18e33fae921b.jpg?1689996286"
+        ],
+        "totalEntries": 58
+    },
+    {
+        "id": 64,
+        "card": [
+            "Mox Amber"
+        ],
+        "relatedItems": [
+            "ALwbxt7g4EGhxas0zH3MXQ",
+            "thwg9hqsKkubGrtHs6IRvw",
+            "kf2wlqAboEmXGKwc1awTdQ",
+            "exITyW3fZk-GZR_23o_Dbg",
+            "nXSIameSUki8eVY7ahkizg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1685554120"
+        ],
+        "totalEntries": 6111
+    },
+    {
+        "id": 65,
+        "card": [
+            "Reshape"
+        ],
+        "relatedItems": [
+            "kf2wlqAboEmXGKwc1awTdQ",
+            "nXSIameSUki8eVY7ahkizg",
+            "GgqLq8aTcUW_gCCxPG7Q4w"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/f/8f8a8f14-bced-4388-b263-5e70431b191f.jpg?1598304756"
+        ],
+        "totalEntries": 339
+    },
+    {
+        "id": 66,
+        "card": [
+            "Captain Lannery Storm"
+        ],
+        "relatedItems": [
+            "nXSIameSUki8eVY7ahkizg",
+            "GgqLq8aTcUW_gCCxPG7Q4w"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/0/60a457e2-6cc7-47f0-9a24-df5459395358.jpg?1712354390"
+        ],
+        "totalEntries": 14
+    },
+    {
+        "id": 67,
+        "card": [
+            "Magda, Brazen Outlaw"
+        ],
+        "relatedItems": [
+            "iXY2MQd4rkio9Kcqj_s6tQ",
+            "nXSIameSUki8eVY7ahkizg",
+            "GgqLq8aTcUW_gCCxPG7Q4w"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/7/079e6263-e54c-4899-a336-5315909b9322.jpg?1631049453"
+        ],
+        "totalEntries": 1159
+    },
+    {
+        "id": 68,
+        "card": [
+            "Weathered Runestone"
+        ],
+        "relatedItems": [
+            "-r_MifxMF0CU71O3l2qXXA",
+            "NgUPlZ0qGEqYgeZLaptnDg",
+            "xXcGUrriuEy-hRjZQimILw",
+            "GgqLq8aTcUW_gCCxPG7Q4w"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/f/0fc2478f-e624-46fb-85af-1254564cd4d2.jpg?1631052403"
+        ],
+        "totalEntries": 362
+    },
+    {
+        "id": 69,
+        "card": [
+            "Minor Misstep"
+        ],
+        "relatedItems": [
+            "nXSIameSUki8eVY7ahkizg",
+            "thwg9hqsKkubGrtHs6IRvw",
+            "GgqLq8aTcUW_gCCxPG7Q4w",
+            "S8rUkXSYqESeUyMeJhX_8w"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/6/360ca37b-5bbd-4923-a493-7674786a36af.jpg?1675956982"
+        ],
+        "totalEntries": 36
+    },
+    {
+        "id": 70,
+        "card": [
+            "Magda, the Hoardmaster"
+        ],
+        "relatedItems": [
+            "HVcsDX2nhEGksnwHLRqoJQ",
+            "kf2wlqAboEmXGKwc1awTdQ",
+            "nXSIameSUki8eVY7ahkizg",
+            "GgqLq8aTcUW_gCCxPG7Q4w"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/4/4443d112-209b-49ec-bc40-3a11dcdb092e.jpg?1712355792"
+        ],
+        "totalEntries": 317
+    },
+    {
+        "id": 71,
+        "card": [
+            "Tolarian Winds"
+        ],
+        "relatedItems": [
+            "D8nWONyh_0Om939eGwkyxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/f/3fdd9981-bb5e-450d-90c3-4405a7097939.jpg?1562236403"
+        ],
+        "totalEntries": 19
+    },
+    {
+        "id": 72,
+        "card": [
+            "Nexus of Fate"
+        ],
+        "relatedItems": [
+            "D8nWONyh_0Om939eGwkyxw",
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/0/f0aacf61-be23-400e-8e3c-5584b44df449.jpg?1723438859"
+        ],
+        "totalEntries": 155
+    },
+    {
+        "id": 73,
+        "card": [
+            "Goblin Welder"
+        ],
+        "relatedItems": [
+            "w4yulGUG2kKyiND7jNtXlg",
+            "kf2wlqAboEmXGKwc1awTdQ",
+            "nXSIameSUki8eVY7ahkizg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/7/17cd920a-de09-454a-a9da-c84512e3aff1.jpg?1562272459"
+        ],
+        "totalEntries": 555
+    },
+    {
+        "id": 74,
+        "card": [
+            "Swiftfoot Boots"
+        ],
+        "relatedItems": [
+            "w4yulGUG2kKyiND7jNtXlg",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/4/04a76643-1703-4fab-8dce-7725490bc2af.jpg?1712354904"
+        ],
+        "totalEntries": 155
+    },
+    {
+        "id": 75,
+        "card": [
+            "Geode Golem"
+        ],
+        "relatedItems": [
+            "w4yulGUG2kKyiND7jNtXlg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/a/fa912283-c28e-4594-aca9-21d82d8cf006.jpg?1689999568"
+        ],
+        "totalEntries": 6
+    },
+    {
+        "id": 76,
+        "card": [
+            "Grinding Station"
+        ],
+        "relatedItems": [
+            "w4yulGUG2kKyiND7jNtXlg",
+            "RR0DJJCpLUSqYsLrjWhHVA",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/f/df1df511-b52c-45cd-9503-ffce4271a802.jpg?1562880250"
+        ],
+        "totalEntries": 1317
+    },
+    {
+        "id": 77,
+        "card": [
+            "Crimson Wisps"
+        ],
+        "relatedItems": [
+            "w4yulGUG2kKyiND7jNtXlg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/6/a65c81ff-fc5d-4191-93fb-52eb806457b7.jpg?1562834247"
+        ],
+        "totalEntries": 269
+    },
+    {
+        "id": 78,
+        "card": [
+            "Open the Omenpaths"
+        ],
+        "relatedItems": [
+            "w4yulGUG2kKyiND7jNtXlg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/e/4e4023c8-8e7f-42b9-99e5-87e80fc3d6c8.jpg?1631049480"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 79,
+        "card": [
+            "Anger of the Gods"
+        ],
+        "relatedItems": [
+            "ZdYfBxtydEWBGsQpTWxSXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/9/f92088c2-74c2-4e63-8a54-83d39f9d6ad6.jpg?1673147734"
+        ],
+        "totalEntries": 55
+    },
+    {
+        "id": 80,
+        "card": [
+            "Rod of Absorption"
+        ],
+        "relatedItems": [
+            "ZdYfBxtydEWBGsQpTWxSXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/9/59e9e244-bb8e-4346-b06b-4af987473442.jpg?1631584949"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 81,
+        "card": [
+            "Volcanic Fallout"
+        ],
+        "relatedItems": [
+            "iKSVcD_4-064SSJsyn37eg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/1/6109c345-ce73-44b6-9228-5c4882764fab.jpg?1608912304"
+        ],
+        "totalEntries": 24
+    },
+    {
+        "id": 82,
+        "card": [
+            "Wandering Archaic // Explore the Vastlands"
+        ],
+        "relatedItems": [
+            "iKSVcD_4-064SSJsyn37eg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778",
+            "https://cards.scryfall.io/border_crop/back/1/8/18a2bdc8-b705-4eb5-b3a5-ff2e2ab8f312.jpg?1626663778"
+        ],
+        "totalEntries": 1058
+    },
+    {
+        "id": 83,
+        "card": [
+            "Tale's End"
+        ],
+        "relatedItems": [
+            "UsOylO7-3k2e_EdEGe4GXA",
+            "iumL67YFs0WbsxyL_LtUWw",
+            "E0SSZ8XfYUC-U_GqidMHpg",
+            "NLcbqxn_fkCYlR7vgECWjQ",
+            "JNKdSd1i3kid4CO0I5maag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/4/1421115b-9a98-4ab2-bcb2-7d8899ce12db.jpg?1592516519"
+        ],
+        "totalEntries": 79
+    },
+    {
+        "id": 84,
+        "card": [
+            "Ghyrson Starn, Kelermorph"
+        ],
+        "relatedItems": [
+            "uM8J3_29Zk-zQSC5YLrD1g",
+            "iumL67YFs0WbsxyL_LtUWw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/a/fa7349d9-c82f-4cf8-a852-92168d1f4966.jpg?1673309394"
+        ],
+        "totalEntries": 308
+    },
+    {
+        "id": 85,
+        "card": [
+            "Defabricate"
+        ],
+        "relatedItems": [
+            "iumL67YFs0WbsxyL_LtUWw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/d/7dd32168-0b9c-4633-adec-d41cf125cc35.jpg?1674420469"
+        ],
+        "totalEntries": 71
+    },
+    {
+        "id": 86,
+        "card": [
+            "Castle Vantress"
+        ],
+        "relatedItems": [
+            "uM8J3_29Zk-zQSC5YLrD1g",
+            "JNKdSd1i3kid4CO0I5maag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/e/dead85f7-865c-4f7d-ad6c-014d4e90f8be.jpg?1726285380"
+        ],
+        "totalEntries": 27
+    },
+    {
+        "id": 87,
+        "card": [
+            "Mind Over Matter"
+        ],
+        "relatedItems": [
+            "JNKdSd1i3kid4CO0I5maag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/e/6e091dd6-149f-46ea-bae0-224e79e3aacb.jpg?1595438216"
+        ],
+        "totalEntries": 137
+    },
+    {
+        "id": 88,
+        "card": [
+            "Homeward Path"
+        ],
+        "relatedItems": [
+            "JNKdSd1i3kid4CO0I5maag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/4/54734347-eee7-4c52-b514-7342afeccabd.jpg?1562400178"
+        ],
+        "totalEntries": 982
+    },
+    {
+        "id": 89,
+        "card": [
+            "Telling Time"
+        ],
+        "relatedItems": [
+            "JNKdSd1i3kid4CO0I5maag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/2/c2616749-699b-4928-8984-aba630d3397a.jpg?1726284420"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 90,
+        "card": [
+            "Final Fortune"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "JNKdSd1i3kid4CO0I5maag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/b/fb80afc3-4887-42a0-afb2-7fa997981fb2.jpg?1562251808"
+        ],
+        "totalEntries": 3833
+    },
+    {
+        "id": 91,
+        "card": [
+            "Malevolent Hermit // Benevolent Geist"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "JNKdSd1i3kid4CO0I5maag",
+            "wqaOtYiEaECXxq8iSwzRQA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.jpg?1634347444",
+            "https://cards.scryfall.io/border_crop/back/e/7/e79269af-63eb-43d2-afee-c38fa14a0c5b.jpg?1634347444"
+        ],
+        "totalEntries": 202
+    },
+    {
+        "id": 92,
+        "card": [
+            "Invert Polarity"
+        ],
+        "relatedItems": [
+            "jXh6UGNNPUiir9o9H9V0Fw",
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "JNKdSd1i3kid4CO0I5maag"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/c/dcee6a8a-c3a8-43bc-beb9-be30d03ab952.jpg?1717012737"
+        ],
+        "totalEntries": 20
+    },
+    {
+        "id": 93,
+        "card": [
+            "Unsummon"
+        ],
+        "relatedItems": [
+            "zPYyec6nk06pQFA44wKeLw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/a/7a960516-3864-4a7a-8117-d25dec0dd665.jpg?1592516526"
+        ],
+        "totalEntries": 14
+    },
+    {
+        "id": 94,
+        "card": [
+            "Basilisk Collar"
+        ],
+        "relatedItems": [
+            "rFJ9EBs1QkW2k416sKJuBg",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/0/5092ae84-857d-4396-8ea7-190baae33c52.jpg?1726285283"
+        ],
+        "totalEntries": 28
+    },
+    {
+        "id": 95,
+        "card": [
+            "Redirect"
+        ],
+        "relatedItems": [
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/e/0eef8431-f63c-44e0-940c-e1a38c338214.jpg?1562550343"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 96,
+        "card": [
+            "Paradigm Shift"
+        ],
+        "relatedItems": [
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/6/e64a17a8-091d-4029-908e-31d6a050b479.jpg?1587857235"
+        ],
+        "totalEntries": 18
+    },
+    {
+        "id": 97,
+        "card": [
+            "Whirlwind Denial"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/e/9e127856-bedd-40a9-9e8e-d1f9fbefe07d.jpg?1581479658"
+        ],
+        "totalEntries": 32
+    },
+    {
+        "id": 98,
+        "card": [
+            "Ornithopter of Paradise"
+        ],
+        "relatedItems": [
+            "iVVuUI1idkOPSBbOiD1-fw",
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/8/18bbdc6c-b6c9-4f89-8f0a-6266e53c1fb9.jpg?1690005658"
+        ],
+        "totalEntries": 178
+    },
+    {
+        "id": 99,
+        "card": [
+            "Molten Tributary"
+        ],
+        "relatedItems": [
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "UsOylO7-3k2e_EdEGe4GXA",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/0/20aff4af-5128-432f-a8c8-65b6909d31ac.jpg?1673308337"
+        ],
+        "totalEntries": 8
+    },
+    {
+        "id": 100,
+        "card": [
+            "Rivendell"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/a/bacd500c-1389-4314-a53e-0ad510d6fb79.jpg?1686970394"
+        ],
+        "totalEntries": 39
+    },
+    {
+        "id": 101,
+        "card": [
+            "Ojer Axonil, Deepest Might // Temple of Power"
+        ],
+        "relatedItems": [
+            "UsOylO7-3k2e_EdEGe4GXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/0/50f8e2b6-98c7-4f28-bb39-e1fbe841f1ee.jpg?1699044315",
+            "https://cards.scryfall.io/border_crop/back/5/0/50f8e2b6-98c7-4f28-bb39-e1fbe841f1ee.jpg?1699044315"
+        ],
+        "totalEntries": 338
+    },
+    {
+        "id": 102,
+        "card": [
+            "Seat of the Synod"
+        ],
+        "relatedItems": [
+            "mWR-NuBWHkefFNsgb8lX2w",
+            "mQyPB9DGQk-hRNyaVU8JLg",
+            "rwKSJAGMf023ZQC2Ip0M5w",
+            "r8TaYXQ5K0eKCtRziGZTLw",
+            "O_xqFrPDqEeN7Ix00ELVDQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/f/1fedc183-2d95-471c-ba78-2169e4df13f8.jpg?1667005055"
+        ],
+        "totalEntries": 229
+    },
+    {
+        "id": 103,
+        "card": [
+            "Time Spiral"
+        ],
+        "relatedItems": [
+            "rwKSJAGMf023ZQC2Ip0M5w",
+            "wqaOtYiEaECXxq8iSwzRQA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/3/f3d62dbd-63db-4ac9-950f-9852627f23f2.jpg?1562946525"
+        ],
+        "totalEntries": 51
+    },
+    {
+        "id": 104,
+        "card": [
+            "Ash Barrens"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/8/a881be73-7b22-418f-bf20-a07400b3b836.jpg?1726285355"
+        ],
+        "totalEntries": 71
+    },
+    {
+        "id": 105,
+        "card": [
+            "Circular Logic"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/b/4b19fdac-da3e-4ebd-ae7b-6f31a97b2a0f.jpg?1675199188"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 106,
+        "card": [
+            "Evolving Wilds"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "XxO1hw-fUE-mCZCFtaI_pQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/5/e524216c-ed35-49a3-868f-7ad0a0027a80.jpg?1726285406"
+        ],
+        "totalEntries": 95
+    },
+    {
+        "id": 107,
+        "card": [
+            "Fire // Ice"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/8/18303862-4726-4136-814f-157aa7006579.jpg?1677286441"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 108,
+        "card": [
+            "Fog Bank"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/1/c14fb062-ff43-43eb-aaaf-304a876d5962.jpg?1690004348"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 109,
+        "card": [
+            "Swiftwater Cliffs"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/9/89e43510-c444-4b2e-b2a0-528dcc09c899.jpg?1721428123"
+        ],
+        "totalEntries": 12
+    },
+    {
+        "id": 110,
+        "card": [
+            "Turn Aside"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/b/3b7573c2-484c-4b4e-9c26-0f005bd1daee.jpg?1576384240"
+        ],
+        "totalEntries": 8
+    },
+    {
+        "id": 111,
+        "card": [
+            "Young Pyromancer"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/2/f233a41f-106b-4bf0-a599-7ac5d83cfed5.jpg?1712354528"
+        ],
+        "totalEntries": 24
+    },
+    {
+        "id": 112,
+        "card": [
+            "Path of Ancestry"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/b/1b0431c1-4310-46f8-8d1e-b6e56de7453d.jpg?1712355087"
+        ],
+        "totalEntries": 109
+    },
+    {
+        "id": 113,
+        "card": [
+            "Crackling Drake"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/3/73957e3b-504d-4ac7-a69c-0b81cb9af402.jpg?1702429614"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 114,
+        "card": [
+            "Izzet Guildgate"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/9/a9ae1bf3-5968-42e7-9bae-241ecd247deb.jpg?1706240264"
+        ],
+        "totalEntries": 9
+    },
+    {
+        "id": 115,
+        "card": [
+            "Sleight of Hand"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/0/80dea5c0-ada3-488a-9f2b-f895b92c762f.jpg?1692937263"
+        ],
+        "totalEntries": 24
+    },
+    {
+        "id": 116,
+        "card": [
+            "Time Stop"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/2/521d1b29-c25b-443b-ae5f-07c11786947e.jpg?1562547698"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 117,
+        "card": [
+            "High Tide"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/a/babd2248-5517-4b7b-a159-9a1f7b5583c8.jpg?1675199319"
+        ],
+        "totalEntries": 59
+    },
+    {
+        "id": 118,
+        "card": [
+            "Quench"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/7/1779a6c5-147d-4632-b1d9-95e89a64dc2c.jpg?1702429408"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 119,
+        "card": [
+            "Electrolyze"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/1/5112af09-1305-4e00-8273-403eac40786f.jpg?1562848887"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 120,
+        "card": [
+            "Izzet Charm"
+        ],
+        "relatedItems": [
+            "thwg9hqsKkubGrtHs6IRvw",
+            "OXD9kM5MyU2Uinj6hTYeYQ",
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/5/15af0592-a1cb-4b1e-b051-dde978939706.jpg?1702429647"
+        ],
+        "totalEntries": 29
+    },
+    {
+        "id": 121,
+        "card": [
+            "Goblin Electromancer"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "9gryx2MrN0eGuR1TTBB1vg",
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/1/71808155-db49-4027-a2fc-76f53475ac05.jpg?1712354723"
+        ],
+        "totalEntries": 21
+    },
+    {
+        "id": 122,
+        "card": [
+            "Traveler's Amulet"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/9/e93621a8-d0f4-436e-9e4f-cccc0447eae8.jpg?1673149445"
+        ],
+        "totalEntries": 6
+    },
+    {
+        "id": 123,
+        "card": [
+            "Long-Term Plans"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/e/7e0422d9-9694-45b6-9c2b-2ca31198cebf.jpg?1562531196"
+        ],
+        "totalEntries": 75
+    },
+    {
+        "id": 124,
+        "card": [
+            "Ral, Storm Conduit"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/7/678ce3bf-152d-45ca-87ae-ad46c921328b.jpg?1557577231"
+        ],
+        "totalEntries": 35
+    },
+    {
+        "id": 125,
+        "card": [
+            "Mercurial Chemister"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/4/24bf4eac-784d-4d9e-b7b3-92da98215376.jpg?1591321377"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 126,
+        "card": [
+            "As Foretold"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/4/c468b523-84fc-4657-adef-acc1eec6ef2e.jpg?1673147199"
+        ],
+        "totalEntries": 14
+    },
+    {
+        "id": 127,
+        "card": [
+            "Omniscience"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/b/db534b4e-8bff-4924-baea-9988d195fb25.jpg?1562304777"
+        ],
+        "totalEntries": 42
+    },
+    {
+        "id": 128,
+        "card": [
+            "Solar Blast"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/7/87202a72-72aa-46d3-ba16-10a180276905.jpg?1675200204"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 129,
+        "card": [
+            "Thriving Bluff"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/1/c1932fa3-12bb-46aa-854f-87e0977e09be.jpg?1706240287"
+        ],
+        "totalEntries": 6
+    },
+    {
+        "id": 130,
+        "card": [
+            "Thriving Isle"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/a/4a67f455-f193-4999-9286-bbccee546fa3.jpg?1726285556"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 131,
+        "card": [
+            "Mindswipe"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/5/557e8303-a021-4257-b41a-7d25f04618c8.jpg?1562786781"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 132,
+        "card": [
+            "Deliberate"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/4/c41c0dd0-fef2-4f3c-8f3c-9c9c521b5442.jpg?1604194005"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 133,
+        "card": [
+            "Archmage Emeritus"
+        ],
+        "relatedItems": [
+            "m4UEutHQ40e9xJI5akzzvQ",
+            "A8iblT87X0uDxC8TK7KZbg",
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "xGi16WhGo0mfDVLkb4NI5A"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/3/c3dbdc3b-4855-48aa-b06d-a31166161eab.jpg?1712354117"
+        ],
+        "totalEntries": 234
+    },
+    {
+        "id": 134,
+        "card": [
+            "Silverbluff Bridge"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/8/d80dc025-c2c4-48c2-8354-7d9ddb430eb9.jpg?1626099834"
+        ],
+        "totalEntries": 9
+    },
+    {
+        "id": 135,
+        "card": [
+            "Unholy Heat"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/e/4e879386-b1f8-4f2a-9820-6e1291746f88.jpg?1727263711"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 136,
+        "card": [
+            "Undercover Operative"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/e/4ecec953-ab86-409b-b618-04bb07ff3eac.jpg?1664410620"
+        ],
+        "totalEntries": 10
+    },
+    {
+        "id": 137,
+        "card": [
+            "Cryptic Spires"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/9/d9168fde-3d3d-4d24-81a6-bc77fe25daee.jpg?1723432918"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 138,
+        "card": [
+            "Impede Momentum"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/5/259c04f7-86f2-4584-97fb-8278dca9a213.jpg?1673306753"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 139,
+        "card": [
+            "Najal, the Storm Runner"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/0/9017ee70-761b-434e-bc44-705cf14336fa.jpg?1673308011"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 140,
+        "card": [
+            "Teferi, Temporal Pilgrim"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/3/23a4f1ec-eadf-4f1e-8821-f22293ad2580.jpg?1674420627"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 141,
+        "card": [
+            "One with the Multiverse"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/c/1c85ae22-ccd0-4649-a736-1915043daae7.jpg?1726284695"
+        ],
+        "totalEntries": 26
+    },
+    {
+        "id": 142,
+        "card": [
+            "Meldweb Curator"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/0/f0d392b2-1dac-432d-930c-66b238f7512b.jpg?1675956975"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 143,
+        "card": [
+            "Gandalf the Grey"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/2/e2b975e6-e709-481f-bfbc-41a832508283.jpg?1686969808"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 144,
+        "card": [
+            "Lithomantic Barrage"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/4/c45a5f4a-2174-4885-aa5a-c4c24cc732f0.jpg?1682204356"
+        ],
+        "totalEntries": 11
+    },
+    {
+        "id": 145,
+        "card": [
+            "Johann, Apprentice Sorcerer"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/8/b88a762d-19ed-451d-a3a9-b3e7eea40f67.jpg?1692939353"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 146,
+        "card": [
+            "Charming Scoundrel"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/8/c8090bcf-e17a-4110-a518-77ccd045b18f.jpg?1692938132"
+        ],
+        "totalEntries": 17
+    },
+    {
+        "id": 147,
+        "card": [
+            "Frantic Firebolt"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/f/efd85f5a-258b-4ced-bf9e-3abe7fe72395.jpg?1692938220"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 148,
+        "card": [
+            "Mocking Sprite"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/5/e595014d-4ff4-4561-b7f2-a9bd56300b01.jpg?1692937184"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 149,
+        "card": [
+            "Unruly Catapult"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/d/3dc275f8-f060-4c15-9b8f-63cf3857eaa7.jpg?1692938608"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 150,
+        "card": [
+            "Galvanize"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/4/64ed3bfa-3294-45dd-825e-3afc2580f0d4.jpg?1706241871"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 151,
+        "card": [
+            "Kylox's Voltstrider"
+        ],
+        "relatedItems": [
+            "SCVeRhgtxEGMhvbcELCJfQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/6/86a8a1af-b1cf-47fc-ab42-7efa07a1c95b.jpg?1706242197"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 152,
+        "card": [
+            "Temple of Epiphany"
+        ],
+        "relatedItems": [
+            "thwg9hqsKkubGrtHs6IRvw",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "uM8J3_29Zk-zQSC5YLrD1g",
+            "E0SSZ8XfYUC-U_GqidMHpg",
+            "xGi16WhGo0mfDVLkb4NI5A"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/a/faf8808a-6a28-419f-a60f-2d1cc4dfa5a7.jpg?1712355168"
+        ],
+        "totalEntries": 39
+    },
+    {
+        "id": 153,
+        "card": [
+            "Strip Mine"
+        ],
+        "relatedItems": [
+            "uM8J3_29Zk-zQSC5YLrD1g"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/5/f57fd4c9-0004-4f71-a30f-2720943f57ca.jpg?1562944463"
+        ],
+        "totalEntries": 237
+    },
+    {
+        "id": 154,
+        "card": [
+            "Personal Tutor"
+        ],
+        "relatedItems": [
+            "uM8J3_29Zk-zQSC5YLrD1g",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/8/2887fc25-22cd-48c9-ad2b-6539c8139e27.jpg?1689996518"
+        ],
+        "totalEntries": 367
+    },
+    {
+        "id": 155,
+        "card": [
+            "Tribute Mage"
+        ],
+        "relatedItems": [
+            "c1DKDXq5EUKMImrAuNlMcg",
+            "mQyPB9DGQk-hRNyaVU8JLg",
+            "d8AiMtLPUEyajHmJZpGJ6A",
+            "ALwbxt7g4EGhxas0zH3MXQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/c/6c180888-6acd-401b-815a-6ed434482681.jpg?1562201528"
+        ],
+        "totalEntries": 299
+    },
+    {
+        "id": 156,
+        "card": [
+            "Ertai's Meddling"
+        ],
+        "relatedItems": [
+            "OXD9kM5MyU2Uinj6hTYeYQ",
+            "jXh6UGNNPUiir9o9H9V0Fw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/5/35c7e7fa-1493-4ef8-9cdb-b02b07a1ad85.jpg?1562053736"
+        ],
+        "totalEntries": 9
+    },
+    {
+        "id": 157,
+        "card": [
+            "Karn, the Great Creator"
+        ],
+        "relatedItems": [
+            "xXcGUrriuEy-hRjZQimILw",
+            "Qcci3dh6ZkisTOVjw1FJ1w",
+            "OXD9kM5MyU2Uinj6hTYeYQ",
+            "c1DKDXq5EUKMImrAuNlMcg",
+            "O_xqFrPDqEeN7Ix00ELVDQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/e/deb3721d-fba1-444f-8b31-1cd10c94c4a0.jpg?1702429246"
+        ],
+        "totalEntries": 850
+    },
+    {
+        "id": 158,
+        "card": [
+            "Gemstone Mine"
+        ],
+        "relatedItems": [
+            "Qcci3dh6ZkisTOVjw1FJ1w",
+            "FA-0hQdsokKpq_hS1ZQQGg",
+            "kf2wlqAboEmXGKwc1awTdQ",
+            "IQRAvDXYk0GRJS03tn2NWg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/e/ee152618-761f-43b4-942a-f63b16c182cc.jpg?1675201210"
+        ],
+        "totalEntries": 521
+    },
+    {
+        "id": 159,
+        "card": [
+            "Mana Leak"
+        ],
+        "relatedItems": [
+            "ALwbxt7g4EGhxas0zH3MXQ",
+            "G_2dKTbcf0uEuExMWI1lWQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/7/179236d9-6fe2-4db6-bdfb-f851e8d531a2.jpg?1673147361"
+        ],
+        "totalEntries": 66
+    },
+    {
+        "id": 160,
+        "card": [
+            "Lofty Denial"
+        ],
+        "relatedItems": [
+            "G_2dKTbcf0uEuExMWI1lWQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/4/64832674-beb1-446e-b2f7-8a5e271139a5.jpg?1616182218"
+        ],
+        "totalEntries": 8
+    },
+    {
+        "id": 161,
+        "card": [
+            "Tibalt's Trickery"
+        ],
+        "relatedItems": [
+            "G_2dKTbcf0uEuExMWI1lWQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.jpg?1701989318"
+        ],
+        "totalEntries": 666
+    },
+    {
+        "id": 162,
+        "card": [
+            "Heat Shimmer"
+        ],
+        "relatedItems": [
+            "NLcbqxn_fkCYlR7vgECWjQ",
+            "RR0DJJCpLUSqYsLrjWhHVA",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/6/86956f26-3761-4841-a9b5-f8205bf01f19.jpg?1599706466"
+        ],
+        "totalEntries": 628
+    },
+    {
+        "id": 163,
+        "card": [
+            "Chromatic Lantern"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "9gryx2MrN0eGuR1TTBB1vg",
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "A8iblT87X0uDxC8TK7KZbg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/f/8f6448b1-ffc7-43f0-b713-881016ce9485.jpg?1712354852"
+        ],
+        "totalEntries": 93
+    },
+    {
+        "id": 164,
+        "card": [
+            "Ashling, Flame Dancer"
+        ],
+        "relatedItems": [
+            "A8iblT87X0uDxC8TK7KZbg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/0/40463be5-89e2-410b-9a4b-770f70d14293.jpg?1717012132"
+        ],
+        "totalEntries": 332
+    },
+    {
+        "id": 165,
+        "card": [
+            "Foil"
+        ],
+        "relatedItems": [
+            "RVBBALLzfUyBwLJK-O-QVg",
+            "S8rUkXSYqESeUyMeJhX_8w"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/8/e8b39fd6-9240-4f76-b12c-e7d9aa88f061.jpg?1547516254"
+        ],
+        "totalEntries": 30
+    },
+    {
+        "id": 166,
+        "card": [
+            "The Mycosynth Gardens"
+        ],
+        "relatedItems": [
+            "mXQGX9osGkm80PdQiBOM6A",
+            "S8rUkXSYqESeUyMeJhX_8w"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/a/5a931463-25f6-4e31-95b4-bb4a9388009b.jpg?1675957276"
+        ],
+        "totalEntries": 304
+    },
+    {
+        "id": 167,
+        "card": [
+            "Telepathy"
+        ],
+        "relatedItems": [
+            "wQuYLtSxh0qYzuwobaJlug",
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "FMJ6VanER0eBMzdcLWlSIA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/e/ce03b4b4-612b-4fc9-b063-b0d367712eaf.jpg?1561995744"
+        ],
+        "totalEntries": 34
+    },
+    {
+        "id": 168,
+        "card": [
+            "Harbinger of the Seas"
+        ],
+        "relatedItems": [
+            "QWcOnn-3rkq2wNsNMWeowQ",
+            "dEIUk7LpG0uJre4JewoRTg",
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "HVcsDX2nhEGksnwHLRqoJQ",
+            "XxO1hw-fUE-mCZCFtaI_pQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/0/00212714-a410-4cbc-bf1c-f90d7d77378c.jpg?1717470489"
+        ],
+        "totalEntries": 91
+    },
+    {
+        "id": 169,
+        "card": [
+            "Consign to Memory"
+        ],
+        "relatedItems": [
+            "rFJ9EBs1QkW2k416sKJuBg",
+            "QWcOnn-3rkq2wNsNMWeowQ",
+            "thwg9hqsKkubGrtHs6IRvw",
+            "XxO1hw-fUE-mCZCFtaI_pQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/c/bc95af55-d1dd-4fe6-adb0-3ad6db20d986.jpg?1717011640"
+        ],
+        "totalEntries": 84
+    },
+    {
+        "id": 170,
+        "card": [
+            "Stranglehold"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "QWcOnn-3rkq2wNsNMWeowQ",
+            "XxO1hw-fUE-mCZCFtaI_pQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/a/da81e6e9-90f2-4dad-894c-1952f05264c2.jpg?1592672829"
+        ],
+        "totalEntries": 67
+    },
+    {
+        "id": 171,
+        "card": [
+            "Convolute"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/f/3fd8e607-8179-4ae8-ba7f-f5f22649dc18.jpg?1591230479"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 172,
+        "card": [
+            "Guttersnipe"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "9gryx2MrN0eGuR1TTBB1vg",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/0/90907737-ad75-48f6-a350-87d4021d89f8.jpg?1713716455"
+        ],
+        "totalEntries": 44
+    },
+    {
+        "id": 173,
+        "card": [
+            "Mizzix's Mastery"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/f/4fa2d7f2-05b3-468f-9f2c-a61b46bad88e.jpg?1712354479"
+        ],
+        "totalEntries": 56
+    },
+    {
+        "id": 174,
+        "card": [
+            "Mystic Confluence"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/2/62e5d409-c0b6-4123-802d-eb32f223bd1a.jpg?1689996500"
+        ],
+        "totalEntries": 9
+    },
+    {
+        "id": 175,
+        "card": [
+            "Serum Visions"
+        ],
+        "relatedItems": [
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "thwg9hqsKkubGrtHs6IRvw",
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/b/5b75eb6b-d76c-4b92-b042-13493f9ef164.jpg?1712354203"
+        ],
+        "totalEntries": 65
+    },
+    {
+        "id": 176,
+        "card": [
+            "Earthquake"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/c/7cf2f3c7-66b2-48f6-97ef-09150903df7e.jpg?1562274550"
+        ],
+        "totalEntries": 15
+    },
+    {
+        "id": 177,
+        "card": [
+            "Into the Roil"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/3/f3463be0-df9e-4cb9-a90f-5d9d2ee729e0.jpg?1608912102"
+        ],
+        "totalEntries": 21
+    },
+    {
+        "id": 178,
+        "card": [
+            "Command Beacon"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/f/4ff61202-fb5e-4cea-a5ea-168505ac31e1.jpg?1712354952"
+        ],
+        "totalEntries": 1023
+    },
+    {
+        "id": 179,
+        "card": [
+            "Seal of Removal"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/d/6dfc7060-e374-486f-8029-d3fdfe4b61e7.jpg?1626100248"
+        ],
+        "totalEntries": 21
+    },
+    {
+        "id": 180,
+        "card": [
+            "Leveler"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/3/03ffa3c3-dd29-47eb-abf2-7951fadb5c37.jpg?1562134247"
+        ],
+        "totalEntries": 18
+    },
+    {
+        "id": 181,
+        "card": [
+            "Lose Focus"
+        ],
+        "relatedItems": [
+            "9gryx2MrN0eGuR1TTBB1vg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/8/985bdb0c-ce6c-4506-8163-76f3b2fdf5fb.jpg?1626094565"
+        ],
+        "totalEntries": 25
+    },
+    {
+        "id": 182,
+        "card": [
+            "Jwari Disruption // Jwari Ruins"
+        ],
+        "relatedItems": [
+            "E0SSZ8XfYUC-U_GqidMHpg",
+            "xXcGUrriuEy-hRjZQimILw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757",
+            "https://cards.scryfall.io/border_crop/back/3/0/301750a7-d1fd-435e-bfa8-9d2fb22ad627.jpg?1604250757"
+        ],
+        "totalEntries": 10
+    },
+    {
+        "id": 183,
+        "card": [
+            "Sundering Eruption // Volcanic Fissure"
+        ],
+        "relatedItems": [
+            "xXcGUrriuEy-hRjZQimILw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/0/50686ac7-346c-43d1-bdaa-28d46a12ad93.jpg?1717013301",
+            "https://cards.scryfall.io/border_crop/back/5/0/50686ac7-346c-43d1-bdaa-28d46a12ad93.jpg?1717013301"
+        ],
+        "totalEntries": 195
+    },
+    {
+        "id": 184,
+        "card": [
+            "Into the Fire"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "Hgh-ZawZokebFgD7u5gaSg",
+            "6O1TRUSw002-Cz3wXLxIog"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/0/80f649bb-b163-44ae-801f-8884143c407f.jpg?1682204213"
+        ],
+        "totalEntries": 32
+    },
+    {
+        "id": 185,
+        "card": [
+            "Null Elemental Blast"
+        ],
+        "relatedItems": [
+            "6O1TRUSw002-Cz3wXLxIog"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/e/8e259868-d29a-4c03-8ec3-49e914f849fb.jpg?1717011287"
+        ],
+        "totalEntries": 63
+    },
+    {
+        "id": 186,
+        "card": [
+            "Echoing Truth"
+        ],
+        "relatedItems": [
+            "E0SSZ8XfYUC-U_GqidMHpg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/d/5d987d26-c8e8-4edf-8ac0-6a2980265710.jpg?1673305149"
+        ],
+        "totalEntries": 14
+    },
+    {
+        "id": 187,
+        "card": [
+            "Return the Favor"
+        ],
+        "relatedItems": [
+            "E0SSZ8XfYUC-U_GqidMHpg",
+            "rE3xMO6zoUCMldaDec7UPA",
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/9/a9cc02d1-799d-42aa-9bc2-4c05452b63b4.jpg?1712860602"
+        ],
+        "totalEntries": 465
+    },
+    {
+        "id": 188,
+        "card": [
+            "Thrill of Possibility"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "xGi16WhGo0mfDVLkb4NI5A"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/e/1efd4ae5-0076-46a0-a113-58cfff53144f.jpg?1675957114"
+        ],
+        "totalEntries": 81
+    },
+    {
+        "id": 189,
+        "card": [
+            "Logic Knot"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/2/624feb0e-f683-4eb6-a63b-7872d0e28f1f.jpg?1619394325"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 190,
+        "card": [
+            "Quicken"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/7/67751745-61c9-488f-b5b3-310c0bafdda7.jpg?1706983318"
+        ],
+        "totalEntries": 50
+    },
+    {
+        "id": 191,
+        "card": [
+            "Archmage Ascension"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/b/dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3.jpg?1562617361"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 192,
+        "card": [
+            "Soulless Jailer"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw",
+            "-r_MifxMF0CU71O3l2qXXA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/f/bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634.jpg?1675957252"
+        ],
+        "totalEntries": 345
+    },
+    {
+        "id": 193,
+        "card": [
+            "Unauthorized Exit"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/a/8a458474-d721-46d7-b487-6a47dc063cfd.jpg?1706241660"
+        ],
+        "totalEntries": 16
+    },
+    {
+        "id": 194,
+        "card": [
+            "Final-Word Phantom"
+        ],
+        "relatedItems": [
+            "bj2bgjsYi0GTLIWErPQKPw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/a/7a51d392-58dc-483e-81f7-2d51e64e54ff.jpg?1706240448"
+        ],
+        "totalEntries": 37
+    },
+    {
+        "id": 195,
+        "card": [
+            "Damping Matrix"
+        ],
+        "relatedItems": [
+            "HVcsDX2nhEGksnwHLRqoJQ",
+            "oMiDBHhlP0GwfxX0JtdKiw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/7/d7c89492-ef45-460e-9c78-83c8c8c80fe2.jpg?1593814887"
+        ],
+        "totalEntries": 12
+    },
+    {
+        "id": 196,
+        "card": [
+            "Sapphire Medallion"
+        ],
+        "relatedItems": [
+            "PGF3ZdDgT0i6LzTpD-Yiyw",
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/7/a77850b2-6478-449e-bdb9-5b92650e3504.jpg?1717013795"
+        ],
+        "totalEntries": 158
+    },
+    {
+        "id": 197,
+        "card": [
+            "Disruptor Flute"
+        ],
+        "relatedItems": [
+            "PGF3ZdDgT0i6LzTpD-Yiyw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/c/5cad8671-4761-4014-a8a3-af45627e6e79.jpg?1717470370"
+        ],
+        "totalEntries": 156
+    },
+    {
+        "id": 198,
+        "card": [
+            "Step Between Worlds"
+        ],
+        "relatedItems": [
+            "thwg9hqsKkubGrtHs6IRvw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/0/70ea2054-3d22-42ce-ab50-501ef09c2128.jpg?1712355510"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 199,
+        "card": [
+            "Three Steps Ahead"
+        ],
+        "relatedItems": [
+            "thwg9hqsKkubGrtHs6IRvw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/f/8fffd839-2337-4a14-9312-cee085a17f4b.jpg?1712860611"
+        ],
+        "totalEntries": 42
+    },
+    {
+        "id": 200,
+        "card": [
+            "Vexing Bauble"
+        ],
+        "relatedItems": [
+            "thwg9hqsKkubGrtHs6IRvw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/9/29f11089-658f-42e6-aeb0-09b512ad2479.jpg?1724878087"
+        ],
+        "totalEntries": 1179
+    },
+    {
+        "id": 201,
+        "card": [
+            "Birgi, God of Storytelling // Harnfel, Horn of Bounty"
+        ],
+        "relatedItems": [
+            "NLcbqxn_fkCYlR7vgECWjQ",
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "IQRAvDXYk0GRJS03tn2NWg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1631048969",
+            "https://cards.scryfall.io/border_crop/back/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.jpg?1631048969"
+        ],
+        "totalEntries": 2404
+    },
+    {
+        "id": 202,
+        "card": [
+            "Gilded Lotus"
+        ],
+        "relatedItems": [
+            "nXSIameSUki8eVY7ahkizg",
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/e/eea7554e-be86-4d0f-8e80-0ccb4c2cd2f1.jpg?1689999578"
+        ],
+        "totalEntries": 50
+    },
+    {
+        "id": 203,
+        "card": [
+            "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+        ],
+        "relatedItems": [
+            "nXSIameSUki8eVY7ahkizg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103",
+            "https://cards.scryfall.io/border_crop/back/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103"
+        ],
+        "totalEntries": 41
+    },
+    {
+        "id": 204,
+        "card": [
+            "Gimli of the Glittering Caves"
+        ],
+        "relatedItems": [
+            "nXSIameSUki8eVY7ahkizg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/a/5afc0319-9e17-4e81-a0b6-e76645bacb04.jpg?1686963998"
+        ],
+        "totalEntries": 71
+    },
+    {
+        "id": 205,
+        "card": [
+            "Time Warp"
+        ],
+        "relatedItems": [
+            "fHX1PsD5hEuWkWuldxtmkg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/7/e7b3ddca-69ef-4743-897b-57c58077db24.jpg?1628801835"
+        ],
+        "totalEntries": 115
+    },
+    {
+        "id": 206,
+        "card": [
+            "Tidespout Tyrant"
+        ],
+        "relatedItems": [
+            "fHX1PsD5hEuWkWuldxtmkg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/b/db68f47b-f49a-4978-acdd-453ecfb948da.jpg?1702429423"
+        ],
+        "totalEntries": 799
+    },
+    {
+        "id": 207,
+        "card": [
+            "Urza, Lord High Artificer"
+        ],
+        "relatedItems": [
+            "fHX1PsD5hEuWkWuldxtmkg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/b/7b7a348a-51f7-4dc5-8fe7-1c70fea5e050.jpg?1689996774"
+        ],
+        "totalEntries": 697
+    },
+    {
+        "id": 208,
+        "card": [
+            "Meltdown"
+        ],
+        "relatedItems": [
+            "fHX1PsD5hEuWkWuldxtmkg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/7/173369d2-dc39-4bfe-a602-b47156570365.jpg?1717013684"
+        ],
+        "totalEntries": 51
+    },
+    {
+        "id": 209,
+        "card": [
+            "Ardent Elementalist"
+        ],
+        "relatedItems": [
+            "fHX1PsD5hEuWkWuldxtmkg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/5/f58592f7-1df5-428d-9dde-e6acd9a5d1d5.jpg?1634350379"
+        ],
+        "totalEntries": 6
+    },
+    {
+        "id": 210,
+        "card": [
+            "Snapcaster Mage"
+        ],
+        "relatedItems": [
+            "mQyPB9DGQk-hRNyaVU8JLg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/e/7e41765e-43fe-461d-baeb-ee30d13d2d93.jpg?1547516526"
+        ],
+        "totalEntries": 164
+    },
+    {
+        "id": 211,
+        "card": [
+            "Copy Enchantment"
+        ],
+        "relatedItems": [
+            "iXY2MQd4rkio9Kcqj_s6tQ",
+            "k_gsvjIcTUqb7MbT83hSlw",
+            "RVBBALLzfUyBwLJK-O-QVg",
+            "7v3wE18EtkaKF76lIG2JhA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/e/ce82b316-8982-41bf-a990-6b776a9e83ac.jpg?1702429365"
+        ],
+        "totalEntries": 68
+    },
+    {
+        "id": 212,
+        "card": [
+            "Nyx Lotus"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/b/5bd6353f-d119-40e6-895c-030a11a7a2fe.jpg?1594077250"
+        ],
+        "totalEntries": 8
+    },
+    {
+        "id": 213,
+        "card": [
+            "Helm of Awakening"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/9/e9e4ff9c-6244-43e1-b569-32a270c4e014.jpg?1675200994"
+        ],
+        "totalEntries": 121
+    },
+    {
+        "id": 214,
+        "card": [
+            "Stasis"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/2/62f99124-6595-45f8-bece-1775e4c55a5c.jpg?1562918295"
+        ],
+        "totalEntries": 41
+    },
+    {
+        "id": 215,
+        "card": [
+            "Ruby Medallion"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1717013787"
+        ],
+        "totalEntries": 198
+    },
+    {
+        "id": 216,
+        "card": [
+            "Izzet Boilerworks"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/f/bfac9395-7ca5-48dd-ab83-7c26ada12f61.jpg?1712355049"
+        ],
+        "totalEntries": 40
+    },
+    {
+        "id": 217,
+        "card": [
+            "Doubling Cube"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1562546549"
+        ],
+        "totalEntries": 14
+    },
+    {
+        "id": 218,
+        "card": [
+            "Vedalken Orrery"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/4/44067327-6fe3-4222-b591-6d14d0e360d7.jpg?1673149453"
+        ],
+        "totalEntries": 22
+    },
+    {
+        "id": 219,
+        "card": [
+            "Magus of the Moon"
+        ],
+        "relatedItems": [
+            "HVcsDX2nhEGksnwHLRqoJQ",
+            "dEIUk7LpG0uJre4JewoRTg",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/c/7c9bd75c-9606-4607-bfa6-d6acdee12820.jpg?1619397276"
+        ],
+        "totalEntries": 557
+    },
+    {
+        "id": 220,
+        "card": [
+            "Trinisphere"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/1/316caa4e-a53a-460b-978c-5f0fba7bc549.jpg?1599710205"
+        ],
+        "totalEntries": 707
+    },
+    {
+        "id": 221,
+        "card": [
+            "Bribery"
+        ],
+        "relatedItems": [
+            "mXQGX9osGkm80PdQiBOM6A",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/9/49fd737a-d7da-421b-a741-d6d0d213299f.jpg?1689996211"
+        ],
+        "totalEntries": 68
+    },
+    {
+        "id": 222,
+        "card": [
+            "Firemind Vessel"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/6/165eee28-202d-4543-87b4-b9d39e8c8472.jpg?1689999539"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 223,
+        "card": [
+            "Psychosis Crawler"
+        ],
+        "relatedItems": [
+            "xGi16WhGo0mfDVLkb4NI5A",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/0/d0f42a19-c180-45b1-9f4c-787cf3a4a649.jpg?1706241075"
+        ],
+        "totalEntries": 14
+    },
+    {
+        "id": 224,
+        "card": [
+            "Codex Shredder"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/f/4f5a3293-f3e7-4f68-af6a-b478959226c1.jpg?1608911365"
+        ],
+        "totalEntries": 220
+    },
+    {
+        "id": 225,
+        "card": [
+            "Unwinding Clock"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/3/c3fd1a59-4ade-459f-90d2-1fc67d6d1384.jpg?1592711373"
+        ],
+        "totalEntries": 227
+    },
+    {
+        "id": 226,
+        "card": [
+            "Springleaf Drum"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/3/f3b3869b-6da1-4b01-a2e7-2018d478b6e5.jpg?1599709959"
+        ],
+        "totalEntries": 2520
+    },
+    {
+        "id": 227,
+        "card": [
+            "Arcane Laboratory"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/9/f9e3bcd7-60f8-472a-ada0-c3147cf06588.jpg?1562251789"
+        ],
+        "totalEntries": 20
+    },
+    {
+        "id": 228,
+        "card": [
+            "Frozen Aether"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/7/e727bb9e-3510-4c8e-ac49-6d7217667a18.jpg?1562584723"
+        ],
+        "totalEntries": 19
+    },
+    {
+        "id": 229,
+        "card": [
+            "Jhoira, Weatherlight Captain"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/f/4f77d23d-6257-4dae-b585-29f45f13f2e2.jpg?1599708079"
+        ],
+        "totalEntries": 337
+    },
+    {
+        "id": 230,
+        "card": [
+            "Thought Lash"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/4/547b1405-3f4e-4c47-8600-3e92197b1dd7.jpg?1562868562"
+        ],
+        "totalEntries": 49
+    },
+    {
+        "id": 231,
+        "card": [
+            "Primal Amulet // Primal Wellspring"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/4/d4d379b5-7f56-4a7d-a4ac-131fc3d579c6.jpg?1562564625",
+            "https://cards.scryfall.io/border_crop/back/d/4/d4d379b5-7f56-4a7d-a4ac-131fc3d579c6.jpg?1562564625"
+        ],
+        "totalEntries": 5
+    },
+    {
+        "id": 232,
+        "card": [
+            "Sceptre of Eternal Glory"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/c/bc7f3009-c852-41e7-8e62-d2ee637b3998.jpg?1673309737"
+        ],
+        "totalEntries": 10
+    },
+    {
+        "id": 233,
+        "card": [
+            "Geralf, the Fleshwright"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/f/afe3b678-b340-4c53-bbf6-19252a809d73.jpg?1712355427"
+        ],
+        "totalEntries": 103
+    },
+    {
+        "id": 234,
+        "card": [
+            "Ral, Monsoon Mage // Ral, Leyline Prodigy"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/3/438d8a26-ddc9-4829-8aff-22d6af6575cf.jpg?1718220782",
+            "https://cards.scryfall.io/border_crop/back/4/3/438d8a26-ddc9-4829-8aff-22d6af6575cf.jpg?1718220782"
+        ],
+        "totalEntries": 205
+    },
+    {
+        "id": 235,
+        "card": [
+            "Artist's Talent"
+        ],
+        "relatedItems": [
+            "iXY2MQd4rkio9Kcqj_s6tQ",
+            "k_gsvjIcTUqb7MbT83hSlw",
+            "kf2wlqAboEmXGKwc1awTdQ",
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/b/8b9e51d9-189b-4dd6-87cb-628ea6373e81.jpg?1721426571"
+        ],
+        "totalEntries": 38
+    },
+    {
+        "id": 236,
+        "card": [
+            "Kitsa, Otterball Elite"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/8/c8ff751a-ec64-41d5-b22c-2a483ad9a9b2.jpg?1721426117"
+        ],
+        "totalEntries": 106
+    },
+    {
+        "id": 237,
+        "card": [
+            "Get Out"
+        ],
+        "relatedItems": [
+            "v4eED9f4z0eBIfvvo44Uxw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/d/5d9471c8-2db9-4ce3-a1e5-42b85134cb8e.jpg?1726286080"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 238,
+        "card": [
+            "Demolish"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/a/3abaf8fe-5fab-442c-b219-45137f9ae112.jpg?1702429498"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 239,
+        "card": [
+            "Hypothesizzle"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/5/d5690329-feb8-49c0-8f59-ee13782e8d3b.jpg?1572893672"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 240,
+        "card": [
+            "Propaganda"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/1/e175bba4-c131-48f4-8e31-16ec07a12e59.jpg?1712354188"
+        ],
+        "totalEntries": 38
+    },
+    {
+        "id": 241,
+        "card": [
+            "Terramorphic Expanse"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/3/b379c8f1-817c-4f18-8f58-45c40504433e.jpg?1726286878"
+        ],
+        "totalEntries": 63
+    },
+    {
+        "id": 242,
+        "card": [
+            "Tezzeret's Gambit"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/5/15b2188f-06c8-4771-bba6-e6fc531ebc9a.jpg?1712354220"
+        ],
+        "totalEntries": 14
+    },
+    {
+        "id": 243,
+        "card": [
+            "Aetherize"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/7/6700409d-afda-480c-8a66-b5c782f3e5e4.jpg?1698988120"
+        ],
+        "totalEntries": 9
+    },
+    {
+        "id": 244,
+        "card": [
+            "Cloudfin Raptor"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/4/54bb0672-adb4-4aad-a4c0-77a0e7373bac.jpg?1702429317"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 245,
+        "card": [
+            "Mugging"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/c/0cce62f3-4a04-4f03-aafe-ccb18eda60c1.jpg?1702429520"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 246,
+        "card": [
+            "Pteramander"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/0/0072bbbf-a695-47dd-9615-db2659f357db.jpg?1712354189"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 247,
+        "card": [
+            "Coastal Piracy"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/f/0f2c4e43-71b2-4483-ba54-4be1dcffcd5f.jpg?1600713707"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 248,
+        "card": [
+            "Skittering Surveyor"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/b/8bae9f1d-e96d-444c-a0fd-5608243ee6c8.jpg?1682205797"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 249,
+        "card": [
+            "Triskaidekaphile"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1634349393"
+        ],
+        "totalEntries": 15
+    },
+    {
+        "id": 250,
+        "card": [
+            "Galvanic Iteration"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/6/f6e94518-e177-4209-8a97-74c61bf51937.jpg?1712354716"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 251,
+        "card": [
+            "Storm Skreelix"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/c/6c49618f-2e9e-4674-9953-153ccc76cce2.jpg?1637114260"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 252,
+        "card": [
+            "Combat Research"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/c/6c44738c-706f-40b2-a09d-b21cd0889049.jpg?1673306670"
+        ],
+        "totalEntries": 33
+    },
+    {
+        "id": 253,
+        "card": [
+            "Goblin Picker"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/d/6d8f1f06-dde5-41f2-923c-67d1d4d13fab.jpg?1673307374"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 254,
+        "card": [
+            "Flowstone Infusion"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/5/b57c3674-9a31-4418-b306-e6b0a2514d8f.jpg?1673307342"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 255,
+        "card": [
+            "Quicksilver Fisher"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/a/bad0e96a-b4cc-4439-aab9-731a1036145d.jpg?1675956984"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 256,
+        "card": [
+            "Meeting of Minds"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/0/508b8650-c283-4e54-abdc-32ec2fb1ee34.jpg?1682203285"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 257,
+        "card": [
+            "Zhalfirin Shapecraft"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/4/e446a380-0316-46f7-8ac9-22bce773b35f.jpg?1682203512"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 258,
+        "card": [
+            "Restless Spire"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/6/66386fe8-9d3c-47f7-9cd3-4cd30051535f.jpg?1692940017"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 259,
+        "card": [
+            "Flick a Coin"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/7/673a67b2-fbb0-4be4-9edd-93946a583f23.jpg?1692938189"
+        ],
+        "totalEntries": 16
+    },
+    {
+        "id": 260,
+        "card": [
+            "Boundary Lands Ranger"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/c/ccdcbb1d-702e-4832-8eed-7ed3deffefe3.jpg?1692938118"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 261,
+        "card": [
+            "Quick Study"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/7/b78e2bca-bc93-464a-8911-8361abff2ac6.jpg?1692937231"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 262,
+        "card": [
+            "Compass Gnome"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/0/10e1030e-2b95-4807-9111-e495a2fc8813.jpg?1699387300"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 263,
+        "card": [
+            "Steamcore Scholar"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/b/6bbf7394-9b17-45f8-a25b-d865e8452b2c.jpg?1706241651"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 264,
+        "card": [
+            "Escape Tunnel"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/3/93ddde4f-d35e-4128-8f43-d0eadbd715de.jpg?1706242339"
+        ],
+        "totalEntries": 18
+    },
+    {
+        "id": 265,
+        "card": [
+            "Jace Reawakened"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/d/fd17e8d4-499e-4005-ae3c-bc9c44dc5a67.jpg?1712356388"
+        ],
+        "totalEntries": 5
+    },
+    {
+        "id": 266,
+        "card": [
+            "Slick Sequence"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/e/beb1c974-0d35-4e9f-a310-44eb2af64494.jpg?1712356219"
+        ],
+        "totalEntries": 5
+    },
+    {
+        "id": 267,
+        "card": [
+            "Harrier Strix"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/0/70ca61a9-8938-41bf-bd14-5759f4de6521.jpg?1712355435"
+        ],
+        "totalEntries": 35
+    },
+    {
+        "id": 268,
+        "card": [
+            "Flare of Denial"
+        ],
+        "relatedItems": [
+            "c1DKDXq5EUKMImrAuNlMcg",
+            "wqaOtYiEaECXxq8iSwzRQA",
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/1/71a98efb-9b0a-496b-ac21-8d70527ea544.jpg?1717470464"
+        ],
+        "totalEntries": 822
+    },
+    {
+        "id": 269,
+        "card": [
+            "Brainsurge"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/e/d/ed48f805-b57c-4d7f-a3c2-d16ae71bce2d.jpg?1717011631"
+        ],
+        "totalEntries": 12
+    },
+    {
+        "id": 270,
+        "card": [
+            "Arena of Glory"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/d/dd148edc-9e43-41aa-bb50-f912115d3e72.jpg?1717047864"
+        ],
+        "totalEntries": 333
+    },
+    {
+        "id": 271,
+        "card": [
+            "Crystal Skull, Isu Spyglass"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/1/b10fa72b-6742-4b65-8654-ac70b6240e38.jpg?1721423673"
+        ],
+        "totalEntries": 24
+    },
+    {
+        "id": 272,
+        "card": [
+            "Desynchronization"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/d/3ddd3561-0143-40b7-81bc-640a978b8b15.jpg?1721423680"
+        ],
+        "totalEntries": 3
+    },
+    {
+        "id": 273,
+        "card": [
+            "Assassin Gauntlet"
+        ],
+        "relatedItems": [
+            "Hgh-ZawZokebFgD7u5gaSg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/9/a9ebdd18-7f07-417c-8f30-470c1f14dfae.jpg?1721423650"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 274,
+        "card": [
+            "Wash Away"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "jXh6UGNNPUiir9o9H9V0Fw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/3/43411ade-be80-4535-8baa-7055e78496df.jpg?1727185657"
+        ],
+        "totalEntries": 48
+    },
+    {
+        "id": 275,
+        "card": [
+            "Treasure Nabber"
+        ],
+        "relatedItems": [
+            "HVcsDX2nhEGksnwHLRqoJQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/f/5facc43f-f865-45ad-888b-398f6e07b947.jpg?1689998274"
+        ],
+        "totalEntries": 63
+    },
+    {
+        "id": 276,
+        "card": [
+            "Whirlpool Warrior"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw",
+            "wqaOtYiEaECXxq8iSwzRQA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/0/10587371-5f50-4caa-ab2e-7d57b721b5e8.jpg?1562898183"
+        ],
+        "totalEntries": 5
+    },
+    {
+        "id": 277,
+        "card": [
+            "Academy Ruins"
+        ],
+        "relatedItems": [
+            "wqaOtYiEaECXxq8iSwzRQA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/9/a95b7645-154f-4904-bf71-db7eb24d4df2.jpg?1599710297"
+        ],
+        "totalEntries": 155
+    },
+    {
+        "id": 278,
+        "card": [
+            "Mikokoro, Center of the Sea"
+        ],
+        "relatedItems": [
+            "wqaOtYiEaECXxq8iSwzRQA"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/8/d80eb098-5433-4b1e-aad5-0fd31bf598dd.jpg?1673306092"
+        ],
+        "totalEntries": 100
+    },
+    {
+        "id": 279,
+        "card": [
+            "Staff of Compleation"
+        ],
+        "relatedItems": [
+            "kf2wlqAboEmXGKwc1awTdQ",
+            "rE3xMO6zoUCMldaDec7UPA",
+            "m4K3aM21OEmgypcZuM6afw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/2/d2934af5-aa4f-4c88-adbd-dcd847ef43a2.jpg?1675957252"
+        ],
+        "totalEntries": 80
+    },
+    {
+        "id": 280,
+        "card": [
+            "Predict"
+        ],
+        "relatedItems": [
+            "m4UEutHQ40e9xJI5akzzvQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/4/349ac7e6-af38-4dc3-abfe-369564c75630.jpg?1592710621"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 281,
+        "card": [
+            "Pyroclasm"
+        ],
+        "relatedItems": [
+            "o03AaqM-ekWrf2ooC2rVkw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/3/4391b0af-2f26-4a45-9e2a-5bd8e9838107.jpg?1726286406"
+        ],
+        "totalEntries": 19
+    },
+    {
+        "id": 282,
+        "card": [
+            "Sweltering Suns"
+        ],
+        "relatedItems": [
+            "o03AaqM-ekWrf2ooC2rVkw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/1/f11cd406-c6ae-4018-ae45-4e5577aa82ae.jpg?1543675701"
+        ],
+        "totalEntries": 5
+    },
+    {
+        "id": 283,
+        "card": [
+            "Volatile Fjord"
+        ],
+        "relatedItems": [
+            "xGi16WhGo0mfDVLkb4NI5A"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/2/f2392fbb-d9c4-4688-b99c-4e7614c60c12.jpg?1631053228"
+        ],
+        "totalEntries": 12
+    },
+    {
+        "id": 284,
+        "card": [
+            "Big Score"
+        ],
+        "relatedItems": [
+            "xGi16WhGo0mfDVLkb4NI5A"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/3/5377da39-2152-414f-8b7e-638cb2e127e3.jpg?1712354380"
+        ],
+        "totalEntries": 85
+    },
+    {
+        "id": 285,
+        "card": [
+            "Fiery Inscription"
+        ],
+        "relatedItems": [
+            "xGi16WhGo0mfDVLkb4NI5A"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/c/8c321159-43e5-40fc-9f0c-4ecc4f6cfd20.jpg?1686968925"
+        ],
+        "totalEntries": 22
+    },
+    {
+        "id": 286,
+        "card": [
+            "Mirrormade"
+        ],
+        "relatedItems": [
+            "wQuYLtSxh0qYzuwobaJlug",
+            "FA-0hQdsokKpq_hS1ZQQGg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/2/a26cbfbe-fbb8-4804-b065-ab2c42ddad9b.jpg?1726284690"
+        ],
+        "totalEntries": 95
+    },
+    {
+        "id": 287,
+        "card": [
+            "Yawgmoth's Testament"
+        ],
+        "relatedItems": [
+            "XxO1hw-fUE-mCZCFtaI_pQ"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/5/9528519a-a26c-4c55-87c3-6b3fb7d23f52.jpg?1723632582"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 288,
+        "card": [
+            "Shore Up"
+        ],
+        "relatedItems": [
+            "iXY2MQd4rkio9Kcqj_s6tQ",
+            "k_gsvjIcTUqb7MbT83hSlw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/4/d/4dc3b49e-3674-494c-bdea-4374cefd10f4.jpg?1721426233"
+        ],
+        "totalEntries": 172
+    },
+    {
+        "id": 289,
+        "card": [
+            "Keep Safe"
+        ],
+        "relatedItems": [
+            "iVVuUI1idkOPSBbOiD1-fw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/e/febfa682-76ae-4979-a40c-c1eae1121f3c.jpg?1591226372"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 290,
+        "card": [
+            "Myr Convert"
+        ],
+        "relatedItems": [
+            "iVVuUI1idkOPSBbOiD1-fw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/d/9df0adcf-7ad0-4d70-8dcd-28f69471495b.jpg?1675957241"
+        ],
+        "totalEntries": 54
+    },
+    {
+        "id": 291,
+        "card": [
+            "Quicksmith Genius"
+        ],
+        "relatedItems": [
+            "wdw3eM7Pl0e-lkjnweEZFw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/f/7fed8df9-600c-4502-83a3-883724f2f7c6.jpg?1625194031"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 292,
+        "card": [
+            "Maskwood Nexus"
+        ],
+        "relatedItems": [
+            "wdw3eM7Pl0e-lkjnweEZFw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/2/1246c42d-57c0-4cba-959a-15ad89d8a50b.jpg?1674142652"
+        ],
+        "totalEntries": 443
+    },
+    {
+        "id": 293,
+        "card": [
+            "Torbran, Thane of Red Fell"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/9/79f591cd-d277-4ba5-b1bf-1c09cac9cb8a.jpg?1572490491"
+        ],
+        "totalEntries": 97
+    },
+    {
+        "id": 294,
+        "card": [
+            "Talrand, Sky Summoner"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/1/b/1be3ed47-072e-481a-b3d9-dc232ac4b24f.jpg?1712354218"
+        ],
+        "totalEntries": 11
+    },
+    {
+        "id": 295,
+        "card": [
+            "Wheel of Fate"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/7/c7937e12-76d9-4030-a68c-7a93a3c852cb.jpg?1619397846"
+        ],
+        "totalEntries": 23
+    },
+    {
+        "id": 296,
+        "card": [
+            "River's Rebuke"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/c/fc2a70b1-bce6-43c3-94e1-ab9a7bb2638a.jpg?1673483988"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 297,
+        "card": [
+            "Magus of the Wheel"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/e/0e952dd9-ef09-40f0-993f-eb3a1516616a.jpg?1689998027"
+        ],
+        "totalEntries": 27
+    },
+    {
+        "id": 298,
+        "card": [
+            "Izzet Locket"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/3/a32ecc71-b924-4414-94ee-c6cb0ba752e5.jpg?1568004915"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 299,
+        "card": [
+            "Murmuring Mystic"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/9/e/9e68dcc2-bba4-4efa-97bb-3ed892037595.jpg?1712592825"
+        ],
+        "totalEntries": 9
+    },
+    {
+        "id": 300,
+        "card": [
+            "Thousand-Year Storm"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/7/274e22fb-7afc-43bc-b309-e36ee48d6b03.jpg?1673149213"
+        ],
+        "totalEntries": 6
+    },
+    {
+        "id": 301,
+        "card": [
+            "The Locust God"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/7/e/7e599847-8ab0-4fd6-b2c0-cb44a7669aa5.jpg?1682209825"
+        ],
+        "totalEntries": 204
+    },
+    {
+        "id": 302,
+        "card": [
+            "Aetherspouts"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/5/b5cb6da6-d43b-4ad1-bb77-9eeb6d15240c.jpg?1637629569"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 303,
+        "card": [
+            "Discombobulate"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/b/8bee0d51-f4a1-4a3a-9ccd-540c3afe62d0.jpg?1562551357"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 304,
+        "card": [
+            "Psychic Spiral"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/9/59b09c16-f611-4c90-a990-e22bf46bd0e2.jpg?1562786761"
+        ],
+        "totalEntries": 4
+    },
+    {
+        "id": 305,
+        "card": [
+            "Ricochet Trap"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/d/5d782375-9192-4ed0-bd79-f3404e5a1b01.jpg?1562288259"
+        ],
+        "totalEntries": 150
+    },
+    {
+        "id": 306,
+        "card": [
+            "Devastation Tide"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/d/2d493bd6-af71-45be-bd4c-1d8f94bca19e.jpg?1592710546"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 307,
+        "card": [
+            "Learn from the Past"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/3/4/347c6e76-dba4-4448-a4f4-d9591d4539c7.jpg?1562784558"
+        ],
+        "totalEntries": 1
+    },
+    {
+        "id": 308,
+        "card": [
+            "Saw It Coming"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/8/7/877a1bb9-5eae-453a-bec0-a9de20ea6815.jpg?1631047574"
+        ],
+        "totalEntries": 10
+    },
+    {
+        "id": 309,
+        "card": [
+            "Consuming Tide"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/8/5865f0f1-28a6-49ac-b61e-135845075d1f.jpg?1643587654"
+        ],
+        "totalEntries": 12
+    },
+    {
+        "id": 310,
+        "card": [
+            "Decanter of Endless Water"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/5/1/518bbc36-58ea-44c4-a857-75a3aff058f5.jpg?1674137804"
+        ],
+        "totalEntries": 10
+    },
+    {
+        "id": 311,
+        "card": [
+            "Haughty Djinn"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/2/1/21228052-e7bf-4e6c-9d88-674caca5b678.jpg?1712354149"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 312,
+        "card": [
+            "Ertai's Scorn"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/1/6129b0d3-b50a-4a4b-9111-39f8fc6718dd.jpg?1673306701"
+        ],
+        "totalEntries": 7
+    },
+    {
+        "id": 313,
+        "card": [
+            "Ephara's Dispersal"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/b/6/b622aad1-4f57-472e-9bd8-9404da88d6be.jpg?1706240692"
+        ],
+        "totalEntries": 2
+    },
+    {
+        "id": 314,
+        "card": [
+            "Filter Out"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/a/8/a81a9eb1-240b-40fd-9282-0f5abec63449.jpg?1684340498"
+        ],
+        "totalEntries": 51
+    },
+    {
+        "id": 315,
+        "card": [
+            "Mines of Moria"
+        ],
+        "relatedItems": [
+            "cjrMnQ5izE63-yLFxpqBIw"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/0/b/0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f.jpg?1686970369"
+        ],
+        "totalEntries": 89
+    },
+    {
+        "id": 316,
+        "card": [
+            "Winter Moon"
+        ],
+        "relatedItems": [
+            "dEIUk7LpG0uJre4JewoRTg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/f/7/f76bc2da-8f4b-4153-8a7b-c601b19affaf.jpg?1717470480"
+        ],
+        "totalEntries": 146
+    },
+    {
+        "id": 317,
+        "card": [
+            "Elixir of Immortality"
+        ],
+        "relatedItems": [
+            "IQRAvDXYk0GRJS03tn2NWg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/6/7/6741ab27-9e1f-4aa5-96b9-b450eda7c5c2.jpg?1625978606"
+        ],
+        "totalEntries": 203
+    },
+    {
+        "id": 318,
+        "card": [
+            "Treasure Cruise"
+        ],
+        "relatedItems": [
+            "IQRAvDXYk0GRJS03tn2NWg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/6/d653b8ac-f643-4e0a-bfd4-edc658a18d9c.jpg?1712354234"
+        ],
+        "totalEntries": 49
+    },
+    {
+        "id": 319,
+        "card": [
+            "Ghostly Flicker"
+        ],
+        "relatedItems": [
+            "IQRAvDXYk0GRJS03tn2NWg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/d/c/dc143ba3-2a58-4980-9fa0-a05a9e9ed082.jpg?1689996411"
+        ],
+        "totalEntries": 125
+    },
+    {
+        "id": 320,
+        "card": [
+            "Naru Meha, Master Wizard"
+        ],
+        "relatedItems": [
+            "IQRAvDXYk0GRJS03tn2NWg"
+        ],
+        "imageLinks": [
+            "https://cards.scryfall.io/border_crop/front/c/f/cf44910a-4e24-4e36-a58e-ae7f463db368.jpg?1625976298"
+        ],
+        "totalEntries": 168
+    }
+]
