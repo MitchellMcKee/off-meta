@@ -14,8 +14,9 @@ export default function ActionAreaCard({
   imageLinks = ['https://cards.scryfall.io/art_crop/front/d/d/ddeb54d6-a600-42b9-98df-20f8d58caed8.jpg?1685554091'], 
   totalEntries}: CardInfo) {
 
-  const cardName = card.join(' and ')
-  const width = card.length > 1 ? 144 : 288
+  const cardName = card.join(' and ');
+  const width = card.length > 1 ? 144 : 288;
+  const randomSpice = relatedItems.length ? relatedItems.sort(() => .5 - Math.random()).slice(0,3) : relatedItems
 
   return (
     <Card key={id}>
@@ -38,7 +39,7 @@ export default function ActionAreaCard({
           </div>
           <div className={styles.footerContainer}>
               <div>
-                  {relatedItems.map((cardName: string) => (
+                  {randomSpice.map((cardName: string) => (
                       <div key={cardName} className={styles.spice}>
                           <img src={pepper} width='16px' height='16px'></img>
                           <Typography level="body-xs" noWrap sx={{width: 180}}>{cardName}</Typography>

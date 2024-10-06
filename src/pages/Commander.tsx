@@ -9,7 +9,6 @@ import { useQuery } from '@tanstack/react-query';
 function Commander() {
   const params = useParams();
   const url = '/' + params.commanderName + '.json';
-  console.log(url)
   const { isPending, error, data } = useQuery({
     queryKey: ['repoData'],
     queryFn: () =>

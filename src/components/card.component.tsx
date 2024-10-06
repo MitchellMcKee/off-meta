@@ -45,7 +45,8 @@ export default function ActionAreaCard({
               <div>
                   {relatedItems.map((moxfieldId: string) => (
                       <div key={moxfieldId} className={styles.spice}>
-                          <a href={`https://www.moxfield.com/decks/${moxfieldId}`}>
+                          <a href={`https://www.moxfield.com/decks/${moxfieldId}`} 
+                              target="_blank" rel="noopener noreferrer">
                             <Typography level="body-xs" noWrap sx={{width: 180}}>{moxfieldId}</Typography>
                           </a>
                       </div>
